@@ -1,49 +1,51 @@
 ---
 layout: post
-title: Here is a sample blog post
-date: 2019-10-19
-published: false
-header_feature_image: _uploads/tomatoes.jpg
-caption: "Juicy Tomatoes"
-tags:
-  - Journalism
-  - Life
-  - Food
+title: Blogging - the Speakers' Corner of the 21st Century
+date: 2020-01-31
+published: true
+header_feature_image: _uploads/andrew-neel-cckf4TsHAuw-unsplash.jpg
 ---
+## Blogging - the Speakers' Corner of the 21st Century
 
-This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+Blogging, a tale **almost** as old as the internet itself.
+In the beginning it was part of challenging the traditional gatekeeping of literature, by giving people a channel to express themselves freely. A way to make the personal _public_. Now, almost everyone on the internet read blogs, or something that it at least closely related to it. And it has in a few years managed to become a fundamental part of the online world.
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a _blockquote_.
+[![Blogging](/_uploads/andrew-neel-cckf4TsHAuw-unsplash.jpg)](/_uploads/andrew-neel-cckf4TsHAuw-unsplash.jpg)
+Photo Credit: Andrew Neel on Unsplash
 
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+### _But where did it all start?_
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+The first website to be considered as a blog was Link.net, created by Justin Hall in 1994 (Chapman, 2011). But it wasn't until 1999 that the word _blog_ was actually used. Back then, there were only a few blogging platforms that were up and running, with LiveJournal and Blogger being some of the earliest examples (ibid). Since then, blogging has experienced a steady increase in growth. It has become more and more mainstream with the years, being adopted by all kinds of people.
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
+### _But who does it?_
 
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
+All people that can write/type, _can_ blog. With the oldest blogger, Swedish Dagny Carlsson (age 106) starting to blog at 99 years old - this is a statement of truth (Aljazeera.com, 2017). But, the matter of blogging being _for_ everyone is different. It certainly isn't.
 
-## Here is a an image
+The types of people who blog today are all different. But they have one thing in common, their passion to write and share. Blogs are made by people with an interest in posting about their life or interests; academics writing about their research; companies wanting to promote their brand - the list is long and varied.
 
-[![Wooden Type](/_uploads/type.jpg)](/_uploads/type.jpg)
+### _But where does one begin?_
 
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
+Starting a blog is for many, the easy part. All you have to do is simply find a username and join a blogging platform.
 
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
+Once you have set up your blog, the next step is to actually start writing. This can for many be a daunting task. However, one of the first things you should remind yourself is to lower your expectations. You don't need to be the blog version of J.K Rowling.
 
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
+To make it all seem a bit less scary, these **3 steps** taken from New York bestselling author Neil Patel (2017) will help you craft a blog post in no time.
 
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
+1. Take your time when writing your first blog posts. This way you can figure out your own writing style, and what you and your readers are interested in.
 
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
+1. Add images to make your content seem more interesting and easy to understand.
 
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+1. Set some rules. It is easier to write fast if you have rules to follow when writing your blog posts.
+
+Here is a link to the full video on Neil Patel's blog post tips:
+https://www.youtube.com/watch?v=ygiAqYJq8No
+
+
+References:
+
+Aljazeera.com. (2017). ‘Dagny Carlsson: Life Begins at 100’. [online] Available at: https://www.aljazeera.com/programmes/witness/2017/09/dagny-carlsson-life-begins-100-170926091755994.html [Accessed 31 Jan. 2020].
+
+Chapman, C. (2011). ‘A Brief History of Blogging’ | Webdesigner Depot. [online] Webdesigner Depot. Available at: https://www.webdesignerdepot.com/2011/03/a-brief-history-of-blogging/ [Accessed 31 Jan. 2020].
+
+Patel, N. (2017). ‘5 Tips For Writing An Awesome Blog Post.’ [online] YouTube. Available at: https://www.youtube.com/watch?v=ygiAqYJq8No [Accessed 31 Jan. 2020].
