@@ -24,7 +24,7 @@ What also differs from print book covers is the opportunity for **development**.
 
 ### Function
 
-Now more than ever, book covers have to **perform**. Instead of merely functioning as the face of the book, they also have to be visually loud. With thousands of pictures and information available online, books are more than just competing with each other in Brick-and-Mortar stores. They are competing on the Internet, with the thousands and thousands of books and other forms of entertainment that are all trying to grab the attention of the consumer. Additionally, as described by Craig Mod, the book cover is competing with other data and information. In his article ‘Hack the Cover’ he states: 
+Now more than ever, book covers have to **perform**. Instead of merely functioning as the face of the book, they also have to be visually loud. With thousands of pictures and information available online, books are more than just competing with each other in Brick-and-Mortar stores. They are competing on the Internet, with the thousands and thousands of books and other forms of entertainment that are all trying to grab the attention of the consumer. Additionally, as described by Craig Mod, the book cover is competing with other data and information. In his article ‘Hack the Cover’ he states:
 
 > ‘The cover image may help quickly ground us, but our eyes are drawn by habit to number and quality of reviews. We’re looking for metrics other than images — real metrics — not artificial marketing signifiers. Blurbs from humans.’ (2013)
 
