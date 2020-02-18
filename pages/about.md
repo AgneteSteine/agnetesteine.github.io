@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me 
+title: About me
 subtitle: #optional sub title to the post
 permalink: /about/
-header_feature_image: /_uploads/Aboutme.jpg #replace this for yours
+header_feature_image: /_uploads/Aboutmeheader.jpg
 tags:
 published: true
 description:
