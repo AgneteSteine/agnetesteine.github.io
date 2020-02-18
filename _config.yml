@@ -42,7 +42,7 @@ description: "A website with blog posts and recipes. Here you can find blog post
 # Change these 2 images for your own site
 
 avatar: assets/img/face.jpg
-favicon: assets/favicon.ico
+favicon: /_uploads/Favicon.jpg
 
 # Your blog on the home page can be arranged as a grid
 
