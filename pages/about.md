@@ -1,10 +1,6 @@
 ---
 layout: page
-<<<<<<< HEAD
-title: false
-=======
-title
->>>>>>> c8751af87cdcb7d74bf597b187a8fe9d24fe64be
+title: About me 
 subtitle: #optional sub title to the post
 permalink: /about/
 header_feature_image: /_uploads/Aboutme.jpg #replace this for yours
