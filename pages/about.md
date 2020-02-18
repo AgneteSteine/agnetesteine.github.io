@@ -15,4 +15,4 @@ My name is Agnete Steine, I'm 23 years old and I come from a small town located 
 
 This blog was created for the purpose of one of my modules, called _Digital Product_. Here I will post written articles on all kinds of aspects within the digital publishing world. There will also be a recipe section where a collection of delicious recipes will be added.
 
-[![](//_uploads/IMG_50681.jpg)](//_uploads/IMG_50681.jpg)
+[![](/_uploads/IMG_50681.jpg)](/_uploads/IMG_50681.jpg)
