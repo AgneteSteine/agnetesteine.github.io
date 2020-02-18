@@ -1,6 +1,6 @@
 ---
 layout: page
-title: false 
+title: false
 subtitle: #optional sub title to the post
 permalink: /about/
 header_feature_image: /_uploads/Aboutme.jpg #replace this for yours
