@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: #optional sub title to the post
 permalink: /about/
-header_feature_image: /_uploads/Aboutmeheader.jpg
+header_feature_image: _uploads/Aboutmeheader.jpg
 tags:
 published: true
 description:
