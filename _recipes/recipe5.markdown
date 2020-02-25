@@ -17,6 +17,8 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 
 <!--more-->
 
+[![Butter Chicken ](//_uploads/IMG_0003copy.JPG)](//_uploads/IMG_0003copy.JPG)
+
 ## Info
 
 **Preparation time:** 15 minutes

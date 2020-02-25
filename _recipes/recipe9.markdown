@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Coffee Pecan Loaf
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true

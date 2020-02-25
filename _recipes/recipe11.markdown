@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Anis-Ginger Tea
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -16,6 +16,8 @@ tags:
 This tea is often used to comfort sore throats and chest colds.
 
 <!--more-->
+
+[![Tea](//_uploads/IMG_0441copy.jpg)](//_uploads/IMG_0441copy.jpg)
 
 ## Ingredients
 

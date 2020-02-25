@@ -17,6 +17,8 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 
 <!--more-->
 
+[![Carbonara](//_uploads/IMG_0512copy.jpg)](//_uploads/IMG_0512copy.jpg)
+
 ## Info
 
 **Preparation time:** 30 minutes

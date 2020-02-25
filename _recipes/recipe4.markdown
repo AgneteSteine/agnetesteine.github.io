@@ -17,6 +17,8 @@ This is a great Winter dish. Though the total cooking time is long, most of this
 
 <!--more-->
 
+[![Beef and Vegetable Stew](//_uploads/IMG_0288-1copy.jpg)](//_uploads/IMG_0288-1copy.jpg)
+
 ## Info
 
 **Preparation time:** 15 minutes

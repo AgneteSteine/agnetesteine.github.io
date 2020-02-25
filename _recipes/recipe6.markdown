@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Chickpea and Spinach Curry
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -11,11 +11,13 @@ tags:
   - Main
 ---
 
-# Curry and Spinach Curry
+# Chickpea and Spinach Curry
 
 Curry powder gives this side dish a taste of India. A white-hot combination of curry powder, chickpeas, and real vegetables is exceptionally made tangy and cooked to smooth perfection.
 
 <!--more-->
+
+[![Curry](//_uploads/IMG_0407_1copy.jpg)](//_uploads/IMG_0407_1copy.jpg)
 
 ## Info
 

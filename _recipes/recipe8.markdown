@@ -17,6 +17,8 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 
 <!--more-->
 
+[![Peanut butter Brownies](//_uploads/IMG_0352-1copy.jpg)](//_uploads/IMG_0352-1copy.jpg)
+
 ## Info
 
 **Preparation time:** 10 minutes

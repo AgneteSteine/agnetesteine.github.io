@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Cranberry and White Chocolate Cookies 
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -16,6 +16,8 @@ tags:
 This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!--more-->
+
+[![Cranberry Cookies](//_uploads/IMG_0186_1copy.jpg)](//_uploads/IMG_0186_1copy.jpg)
 
 ## Info
 
@@ -46,6 +48,9 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 4.	Add the egg and beat in well, scraping down the sides to add in all of the mixture then beat the flour mixture in gradually.
 5.	Pour in the chocolate chunks and chopped cranberries and mix in well with a spoon.
 6.	Using two dessert or soup spoons, drop rounded spoonfuls of mixture onto ungreased baking sheets.
+
+[![Cranberry Cookies](//_uploads/IMG_0168_1copy.jpg)](//_uploads/IMG_0168_1copy.jpg)
+
 7.	Cook for 9-11 minutes, until the cookies are golden brown.  They will be soft when they come out of the oven so leave them for a couple of minutes to firm up before lifting them off the tray.
 
 The mixture makes approximately 18 cookies of 7cm diameter.
