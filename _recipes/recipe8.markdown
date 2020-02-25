@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Peanut Butter Brownies
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
