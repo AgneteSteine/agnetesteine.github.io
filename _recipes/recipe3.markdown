@@ -4,7 +4,7 @@ title: Creamy Carbonara
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 1
+order: 2
 tags:
   - Pasta
   - Winter recipes
@@ -13,11 +13,11 @@ tags:
 
 # Creamy Carbonara
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Spaghetti Carbonara is a known classic that probably many of you have ordered at a restaurant. The main can also be made at home, and is great to make when you crave a bit of comfort food. Just a handful of ingrediences and you have yoursef a wonderfully indulgent meal.
 
 <!--more-->
 
-[![Carbonara](//_uploads/IMG_0512copy.jpg)](//_uploads/IMG_0512copy.jpg)
+[![Pasta](/_uploads/pasta.jpg)](/_uploads/pasta.jpg)
 
 ## Info
 
@@ -28,14 +28,14 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 
 ## Ingredients
 
-- 1 lb Pasta
-- 1 Small Can Evaporated Milk
-- 1 Can Cream of Mushroom Soup
-- 1 Small Can Nestle Cream
-- 1 Cup Sliced Mushrooms
-- 1/2 Cup Grated Cheese
-- 1 Cup Diced Ham / Bacon
-- 3/4 Stick Butter
+- 1 lb (400g) pasta
+- 1 small can evaporated milk
+- 1 can cream of mushroom soup
+- 1 small can Nestle cream
+- 1 cup (75g) sliced mushrooms
+- 1/2 cup (50g) grated cheese
+- 1 cup (135g) diced ham/bacon
+- 3/4 stick butter
 
 
 ## Instructions
@@ -48,4 +48,6 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 6.	Serve over pasta, add bacon bits on top.
 
 
-Recipe taken from: https://recipes.fandom.com/wiki/Creamy_Carbonara
+Source: https://recipes.fandom.com/wiki/Creamy_Carbonara
+
+Photo credit: Bruna Branco on Unsplash

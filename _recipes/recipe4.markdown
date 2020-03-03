@@ -4,7 +4,7 @@ title: Beef and Vegetable Stew
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 1
+order: 3
 tags:
   - Meat
   - Winter recipes
@@ -13,11 +13,11 @@ tags:
 
 # Beef and Vegetable Stew
 
-This is a great Winter dish. Though the total cooking time is long, most of this is done at a low temperature in the oven and requires very little attention from the cook!  You can make this the day before you want it or put it on to cook in the morning so it is ready to eat whenever you are. Lovely with some creamy mashed potato and steamed green beans or broccoli.
+This is a great Winter dish. Beef stew at its best. From this recipe you will get a warming casserole of prime beef with a delicious sauce. Lovely with some creamy mashed potato on the side.
 
 <!--more-->
 
-[![Beef and Vegetable Stew](//_uploads/IMG_0288-1copy.jpg)](//_uploads/IMG_0288-1copy.jpg)
+[![Beef Stew](/_uploads/beefstew.jpg)](/_uploads/beefstew.jpg)
 
 ## Info
 
@@ -29,22 +29,22 @@ This is a great Winter dish. Though the total cooking time is long, most of this
 
 ## Ingredients
 
-- 2 Large Carrots
-- 2 Parnsips
-- 2 Sticks of Celery
-- 2 Medium Onions
-- 200g Button Mushrooms
-- 2 Cloves of Garlic
-- 800g Stewing Steak in Chunks
-- 2 1/2 Tablespoons Plain Flour
-- 3 Tablespoons Rapeseed (Canola) or Olive Oil
-- 2 Tablespoons Worcestershire Sauce
-- 2 Tablespoons Tomato Puree
-- 500ml Beef Stock (Either homemade or a store bought tub or made from a beef stock cube or concentrate)
-- 2 fresh Bay Leaves
-- A Small Bunch (approx. 10g) Fresh Thyme
-- A Small Bunch (approx. 10g) Fresh Flat Leaf Parsley
-- Salt and Pepper (to taste)
+- 2 large carrots
+- 2 parnsips
+- 2 sticks of celery
+- 2 medium onions
+- 200g button mushrooms
+- 2 cloves of garlic
+- 800g stewing steak in chunks
+- 2 1/2 tablespoons plain flour
+- 3 tablespoons rapeseed (canola) or olive oil
+- 2 tablespoons Worcestershire sauce
+- 2 tablespoons tomato puree
+- 500ml beef stock (either homemade or a store bought tub or made from a beef stock cube or concentrate)
+- 2 fresh bay Leaves
+- A small bunch (approx. 10g) fresh thyme
+- A small bunch (approx. 10g) fresh flat leaf parsley
+- Salt and pepper (to taste)
 
 
 ## Instructions
@@ -59,4 +59,6 @@ This is a great Winter dish. Though the total cooking time is long, most of this
 8.	Cook for 2 1/2 hours (stirring occasionally if you happen to be in the kitchen).  Then add the mushrooms and cook for a further 30 minutes. Remove the cooked herbs before serving.
 
 
-Recipe taken from:http://www.abasiccook.com/?space-recipes=beef-and-vegetable-stew
+Source: http://www.abasiccook.com/?space-recipes=beef-and-vegetable-stew
+
+Photo credit: Charles Deluvio on Unsplash

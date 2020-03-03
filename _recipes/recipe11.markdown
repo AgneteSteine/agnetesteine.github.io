@@ -4,7 +4,7 @@ title: Anis-Ginger Tea
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 1
+order: 10
 tags:
   - Tea
   - Winter recipes
@@ -13,24 +13,26 @@ tags:
 
 # Anis-Ginger Tea
 
-This tea is often used to comfort sore throats and chest colds.
+It is cold outside, which makes it even better to enjoy a warm drink. Combine lemon juice with aniseed, honey and ginger to make a delicious cup of tea. It is soothing, comforting, and works wonders for sore throats and chest colds.
 
 <!--more-->
 
-[![Tea](//_uploads/IMG_0441copy.jpg)](//_uploads/IMG_0441copy.jpg)
+[![Tea](/_uploads/tea.jpg)](/_uploads/tea.jpg)
 
 ## Ingredients
 
-- 1 cup Water
-- 1 teaspoon Aniseed
-- 1/4 teaspoon Ginger
-- 1 tablespoon Lemon Juice
-- 1 tablespoon Honey
+- 1 cup (250ml) water
+- 1 teaspoon aniseed
+- 1/4 teaspoon ginger
+- 1 tablespoon lemon juice
+- 1 tablespoon honey
 
 
 ## Instructions
 
-1.	Combine ingredients in small pan. Bring to boil, lower heat, simmer for 5 minutes.
+1. Combine ingredients in small pan. Bring to boil, lower heat, simmer for 5 minutes.
 2. Strain. Serve hot in cups.
 
-Recipe taken from: https://recipes.fandom.com/wiki/Anis-Ginger_Tea
+Source: https://recipes.fandom.com/wiki/Anis-Ginger_Tea
+
+Photo credit: Taisiia Shestopal on Unsplash

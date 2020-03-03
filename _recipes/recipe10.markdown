@@ -4,7 +4,7 @@ title: Ginger Spiced Hot Chocolate
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 1
+order: 9
 tags:
   - Hot Chocolate
   - Winter recipes
@@ -13,11 +13,11 @@ tags:
 
 # Ginger Spiced Hot Chocolate
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Achieve ultimate comfort in a mug with this smooth and rich hot chocolate with an added kick. This recipe is easy to make with just a few simple ingredients and steps. What could be more perfect on a cold winter's day than a cup of hot chocolate?
 
 <!--more-->
 
-[![Hot Chocolate](//_uploads/IMG_0462copy.jpg)](//_uploads/IMG_0462copy.jpg)
+[![Hot chocolate](/_uploads/hotchocolate.jpg)](/_uploads/hotchocolate.jpg)
 
 ## Info
 
@@ -28,7 +28,7 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 
 ## Ingredients
 
-8 ounces 1 percent low-fat milk
+8 ounces (250ml) 1 percent low-fat milk
 1/4-inch piece peeled, fresh ginger, sliced into 2 rounds
 2 teaspoons unsweetened cocoa powder
 2 teaspoons sugar
@@ -45,4 +45,6 @@ This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit ame
 5. Pour the hot chocolate into the mug and top with chocolate shavings.
 
 
-Recipe taken from: https://recipes.fandom.com/wiki/Ginger_Spiced_Hot_Chocolate
+Source: https://recipes.fandom.com/wiki/Ginger_Spiced_Hot_Chocolate
+
+Photo credit: Maddi Bazzocco on Unsplash

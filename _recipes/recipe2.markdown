@@ -12,11 +12,11 @@ tags:
 
 # Oatmeal Porridge
 
-Porridge is a fantastic breakfast option.  It high in fibre and protein and its slow release energy means it will keep you full for longer.
+Oatmeal porridge is a fantastic breakfast option that is not only delicious but also very healthy. With an unlimited amount of topping options, this recipe can turn an oatmeal sceptic into a devoted fan. Creamy, hearty and warming. A perfect way to start a winter's day.
 
 <!--more-->
 
-[![Oatmeal Porridge](//_uploads/IMG_0088copy2.jpg)](//_uploads/IMG_0088copy2.jpg)
+[![Oatmeal Porridge](/_uploads/IMG_0088copy2.jpg)](/_uploads/IMG_0088copy2.jpg)
 
 ## Info
 
@@ -28,9 +28,9 @@ Porridge is a fantastic breakfast option.  It high in fibre and protein and its 
 
 ## Ingredients
 
-- 1 Cup (90g) Porridge Oats
-- 1 1/4 Cups (310ml) Milk (optional)
-- 1 Banana sliced (optional)
+- 1 cup (90g) porridge oats
+- 1 1/4 cups (310ml) milk
+- 1 banana sliced (optional)
 
 
 ## Instructions
@@ -42,11 +42,17 @@ Porridge is a fantastic breakfast option.  It high in fibre and protein and its 
 
 ### Topping ideas
 
-
-
-
+- Fresh fruit
+- Nuts and seeds
+- Dried fruits
+- Honey
+- Cinnamon
+- Nut butter
+- Brown sugar
 
 I used one banana, dried cranberries, walnuts, pecan nuts, and a dash of honey and cinnamon.
 
 
-Recipe taken from: http://www.abasiccook.com/?space-recipes=porridge-oatmeal
+Source: http://www.abasiccook.com/?space-recipes=porridge-oatmeal
+
+Photo credit: Agnete Steine

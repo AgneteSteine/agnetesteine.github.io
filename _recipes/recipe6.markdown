@@ -4,7 +4,7 @@ title: Chickpea and Spinach Curry
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order: 1
+order: 5
 tags:
   - Vegetarian
   - Winter recipes
@@ -13,11 +13,11 @@ tags:
 
 # Chickpea and Spinach Curry
 
-Curry powder gives this side dish a taste of India. A white-hot combination of curry powder, chickpeas, and real vegetables is exceptionally made tangy and cooked to smooth perfection.
+This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning. Combine it with rice and fresh coriander for a flavour-packed tasting experience. A great family dinner that is healthy and tasty.
 
 <!--more-->
 
-[![Curry](//_uploads/IMG_0407_1copy.jpg)](//_uploads/IMG_0407_1copy.jpg)
+[![Curry](/_uploads/curry.jpg)](/_uploads/curry.jpg)
 
 ## Info
 
@@ -29,15 +29,15 @@ Curry powder gives this side dish a taste of India. A white-hot combination of c
 
 ## Ingredients
 
-1 Cup Onion, coarsely chopped, red only
-1 ½ tbsp. fresh Ginger, chopped or grated
-1 tsp. Olive Oil
-2 ½ tsp. Curry Powder
-1 x 19-oz. can Chickpeas, rinsed
-1 x 14-oz. can no-sodium-added Diced Tomatoes with liquid
-1 x 10-oz. bag fresh Spinach, stems removed
-½ Cup Water, hot or lukewarm only
-¼ tsp. Sea Salt
+1 cup (115g) onion, coarsely chopped, red only
+1 ½ tbsp. fresh ginger, chopped or grated
+1 tsp. olive oil
+2 ½ tsp. curry powder
+1 x 19-oz. (approx. 500g) can chickpeas, rinsed
+1 x 14-oz. (400g) can no-sodium-added diced tomatoes with liquid
+1 x 10-oz. (225g) bag fresh spinach, stems removed
+½ cup (125ml) water, hot or lukewarm only
+¼ tsp. sea salt
 
 
 ## Instructions
@@ -49,6 +49,8 @@ Curry powder gives this side dish a taste of India. A white-hot combination of c
 5.	Mix with the spinach, water, and salt. Cook another minute until spinach wilts. Serve over brown rice.
 
 
-Optional: Serve with rice or bread rolls
+Optional: Serve with rice or bread rolls.
 
-Recipe taken from: https://recipes.fandom.com/wiki/Chickpea_and_Spinach_Curry
+Source: https://recipes.fandom.com/wiki/Chickpea_and_Spinach_Curry
+
+Photo credit: Dragne Marius on Unsplash
