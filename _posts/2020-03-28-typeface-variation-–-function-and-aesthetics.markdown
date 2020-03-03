@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Typeface Variation – Function and Aesthetics
-date: 2020-03-28 12:04
-published: false
+date: 2020-02-28 12:04
+published: true
 header_feature_image: _uploads/Picture3.jpg
 caption:
 tags:    # use [tag1,tag2]
