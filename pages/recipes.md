@@ -1,17 +1,12 @@
 ---
 layout: recipeshome
 title: Recipes
-subtitle: My Recipe Site #optional sub title to the post
+subtitle: #optional sub title to the post
 permalink: /recipes/
 tags:
 published: true
-hide: false #remove this line when you want your recipe site on the menu
 ---
 
-Here is an introduction to my recipe site
+Winter is a beautiful season. It is a season of fun in the snow, holiday festivities and great memories. But it is also a time of plunging temperatures and icy weather. The time of year where we crave food of comfort to keep us warm. The Winter Kitchen is a short collection of recipes which are great for cozying up inside.
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The book consists of 10 simple recipes containing mains, desserts and hot beverages, with ingredients found in your local supermarket. From warm and comforting food like buttery chicken, creamy pasta and curry, to sweet desserts like brownies and cookies. The Winter Kitchen has a recipe fit for any seasonal occasion, great for cooking alone or for gather around a table with your loved ones.

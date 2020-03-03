@@ -11,7 +11,7 @@ tags:    # use [tag1,tag2]
 
 HTML is everywhere. Since its creation it has become a major component of the web. Every website relies on it. Let’s take a brief look at its development.  
 
-[![HTML](//_uploads/Picture2.jpg)](//_uploads/Picture2.jpg)
+[![HTML](/_uploads/Picture2.jpg)](/_uploads/Picture2.jpg)
 Photo credit: Pixabay from Pexels
 
 ### Defining HTML
