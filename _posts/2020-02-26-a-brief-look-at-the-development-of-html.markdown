@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brief Look at the Development of HTML
-date: 2020-02-26 11:56
+date: 2020-02-23 11:56
 published: true
 header_feature_image: _uploads/Picture1.jpg
 caption:
@@ -48,4 +48,4 @@ Pogan, A. (2018). ‘25 Years of Markup: The Evolution of HTML’. [online] dzon
 
 Veen, J. (1997). ‘A Brief History of HTML’. [online] WIRED. Available at: https://www.wired.com/1997/04/a-brief-history-of-html/ [Accessed 22 Feb. 2020].
 
-Whittick, C. (2016). ‘What is HTML and how has it changed?’ [online] 5and3.co.uk. Available at: https://5and3.co.uk/articles/html-how-has-it-changed/ [Accessed 26 Feb. 2020].
+Whittick, C. (2016). ‘What is HTML and how has it changed?’ [online] 5and3.co.uk. Available at: https://5and3.co.uk/articles/html-how-has-it-changed/ [Accessed 23 Feb. 2020].
