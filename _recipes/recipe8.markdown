@@ -28,7 +28,7 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 
 **Difficulty:** Easy
 
-**Servings:** Pieces
+**Servings:** 15-18 pieces
 
 
 ### INGREDIENTS

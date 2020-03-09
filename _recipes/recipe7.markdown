@@ -28,7 +28,7 @@ Cookies are easy to make and easy to like. This recipe is no exception. These cr
 
 **Difficulty:** Very Easy
 
-**Servings:** 18
+**Servings:** 18 cookies
 
 
 ### INGREDIENTS
