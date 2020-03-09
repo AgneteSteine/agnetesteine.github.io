@@ -91,11 +91,6 @@ p, ol, ul {
     padding-bottom: 10px;
 }
 
-.intro {
-  color: rgba(53, 55, 52, 0.63);
-  line-height: 2.0;
-}
-
 hr {
     border: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
