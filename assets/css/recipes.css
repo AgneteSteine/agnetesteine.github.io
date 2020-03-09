@@ -125,7 +125,7 @@ ul.recipes li {
 
 body.recipelist a {
   color:black;
-  text-decoration: underline;
+  font-family: Verdana, Geneva, sans-serif;
 }
 
 h1.site-title a {
