@@ -3,7 +3,7 @@ layout: post
 title: The Importance of User-testing Products
 date: 2020-03-02 12:11
 published: true
-header_feature_image: _uploads/Picture4.jpg
+header_feature_image: _uploads/david-travis-WC6MJ0kRzGw-unsplash.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
@@ -11,7 +11,7 @@ tags:    # use [tag1,tag2]
 
 When developing products and services, many companies conduct user research. It is considered to be one of the most important aspects of making a business successful. But what is it?
 
-[![Usability](/_uploads/Picture4.jpg)](/_uploads/Picture4.jpg)
+[![Usability](/_uploads/david-travis-WC6MJ0kRzGw-unsplash.jpg)](/_uploads/david-travis-WC6MJ0kRzGw-unsplash.jpg)
 Photo credit: David Travis on Unsplash
 
 User-testing and research is the process of understanding how people perceive and use products and services. The process usually involves conducting user research in any stage of the product development – before, during or after. User-testing is mainly done through interviews, focus groups, surveys or usability evaluations (Kuniavsky, Goodman, and Moed, 2012). For many companies, user-testing is a set priority. What is it that makes it so important?

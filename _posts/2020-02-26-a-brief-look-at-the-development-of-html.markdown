@@ -3,7 +3,7 @@ layout: post
 title: A Brief Look at the Development of HTML
 date: 2020-02-23 11:56
 published: true
-header_feature_image: _uploads/Picture1.jpg
+header_feature_image: _uploads/four-letter-tiles-1591061.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
@@ -11,7 +11,7 @@ tags:    # use [tag1,tag2]
 
 HTML is everywhere. Since its creation it has become a major component of the web. Every website relies on it. Let’s take a brief look at its development.  
 
-[![HTML](/_uploads/Picture2.jpg)](/_uploads/Picture2.jpg)
+[![html](/_uploads/four-letter-tiles-1591061.jpg)](/_uploads/four-letter-tiles-1591061.jpg)
 Photo credit: Pixabay from Pexels
 
 ### Defining HTML

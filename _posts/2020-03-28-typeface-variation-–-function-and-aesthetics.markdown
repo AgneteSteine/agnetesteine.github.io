@@ -3,7 +3,7 @@ layout: post
 title: Typeface Variation – Function and Aesthetics
 date: 2020-02-28 12:04
 published: true
-header_feature_image: _uploads/Picture3.jpg
+header_feature_image: _uploads/alexander-andrews-zw07kVDaHPw-unsplash.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
@@ -11,7 +11,7 @@ tags:    # use [tag1,tag2]
 
 When reading a document, readers perceive not only the overall text but also the features within it, such as the typography. Used properly, typography can have an immense impact on the success of a design. For this reason, it is at the centre of design practice.
 
-[![Typeface](/_uploads/Picture3.jpg)](/_uploads/Picture3.jpg)
+[![Typeface](/_uploads/alexander-andrews-zw07kVDaHPw-unsplash.jpg)](/_uploads/alexander-andrews-zw07kVDaHPw-unsplash.jpg)
 Photo credit: Alexander Andrews on Unsplash
 
 Typography is a term that encompasses the style and appearance of text. Within it, you find typefaces, which, as explained by Royal van Horn is; ‘a particular design of type’ (2004, p. 727), often accompanied by terms like typeface families (a group of typefaces) and typeface classifications (groups of typefaces sharing similar characteristics). Typefaces are about function, but also aesthetics. The goal of a designer is to successfully “translate” a message into visual content. Typefaces can help achieve that.
