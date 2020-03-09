@@ -22,11 +22,8 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious, but
 ### INFO
 
 **Preparation time:** 1 minutes
-
 **Cooking time:** 2 minutes
-
 **Difficulty:** Very easy
-
 **Servings:** 1
 
 
