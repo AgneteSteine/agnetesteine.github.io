@@ -132,6 +132,7 @@ body.recipelist a {
 h1.title.recipelist a{
   color:black;
   font-family: Verdana, Geneva, sans-serif;
+  font-size:2.0em;
   list-style: none;
 }
 
