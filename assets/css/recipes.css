@@ -1,6 +1,6 @@
 /*! CSS adapted from  type theme */
 html {
-    font-family: sans-serif;
+    font-family: serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     background: #fff;
@@ -11,13 +11,14 @@ html {
 }
 
 img {
-  float:right;
-  max-width: 50%;
+  max-width: 100%;
+  /* margin: 30px; */
 }
 
 h1.title {
-  font-size:2em;
-  color:red;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size:2.5em;
+  color:rgb(0, 0, 0);
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
@@ -26,13 +27,41 @@ main, menu, nav, section, summary {
 }
 
 body {
-    font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
+    font-family: Georgia, serif;
     margin: 30px;
-    font-size: 1.25em;
+    font-size: 1.10em;
+}
+
+h2,h3 {
+  font-family: Verdana, Geneva, sans-serif;
+  color:black;
+}
+
+.content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
 }
 
 h1.site-title {
-font-size: 2.5em;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 1.25em;
+}
+
+
+
+@media screen and (max-width: 720px) {
+
+  ul.recipes {
+    display: none;
+  }
+
+  .content {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 img.cover {
@@ -70,17 +99,35 @@ hr {
 }
 
 a {
-    color: #337ab7;
+  color:black;
     text-decoration: none
 }
 
 /* for a menu for all recipes */
 ul.recipes {
   border: 1px solid gray;
-  width: 15%;
+  width: 12%;
   float:right;
-  font-size: 60%;
-  position: absolute;
-  top:40px;
-  right:20px;
+  position: fixed;
+  font-size: 50%;
+  top:10px;
+  right:10px;
+  font-family: Georgia, serif;
+  list-style: none;
+}
+
+ul.recipes li {
+  margin-left: 0;
+  text-indent: 0;
+  list-style: none;
+  color:rgb(208, 82, 7);
+}
+
+body.recipelist a {
+  color:black;
+  text-decoration: underline;
+}
+
+h1.site-title a {
+color:rgb(208, 82, 7);
 }
