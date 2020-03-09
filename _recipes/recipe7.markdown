@@ -52,10 +52,10 @@ Cookies are easy to make, and easy to like. This recipe is no exception. These c
 4.	Add the egg and beat in well, scraping down the sides to add in all of the mixture then beat the flour mixture in gradually.
 5.	Pour in the chocolate chunks and chopped cranberries and mix in well with a spoon.
 6.	Using two dessert or soup spoons, drop rounded spoonfuls of mixture onto ungreased baking sheets.
+7.	Cook for 9-11 minutes, until the cookies are golden brown.  They will be soft when they come out of the oven so leave them for a couple of minutes to firm up before lifting them off the tray.
 
 [![Cranberry Cookies](/_uploads/IMG_0168_1copy.jpg)](/_uploads/IMG_0168_1copy.jpg)
 
-7.	Cook for 9-11 minutes, until the cookies are golden brown.  They will be soft when they come out of the oven so leave them for a couple of minutes to firm up before lifting them off the tray.
 
 The mixture makes approximately 18 cookies of 7cm diameter.
 
