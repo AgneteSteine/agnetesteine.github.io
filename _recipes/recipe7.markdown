@@ -13,7 +13,7 @@ tags:
 
 # Cranberry and White Chocolate Cookies
 
-Cookies are easy to make, and easy to like. This recipe is no exception. These cranberry and white chocolate cookies are soft, chewy, thick and full of flavour. Great to make for nights in with friends or family, birthday parties, or just for yourself.
+Cookies are easy to make and easy to like. This recipe is no exception. These cranberry and white chocolate cookies are soft, chewy, thick and full of flavour. Great to make for nights in with friends or family, birthday parties, or just for yourself.
 
 <!--more-->
 
