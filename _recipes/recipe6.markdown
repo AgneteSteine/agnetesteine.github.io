@@ -33,23 +33,15 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 
 ### INGREDIENTS
 
-1 cup (115g) onion, coarsely chopped, red only
-
-1 ½ tbsp. fresh ginger, chopped or grated
-
-1 tsp. olive oil
-
-2 ½ tsp. curry powder
-
-1 x 19-oz. (approx. 500g) can chickpeas, rinsed
-
-1 x 14-oz. (400g) can no-sodium-added diced tomatoes with liquid
-
-1 x 10-oz. (225g) bag fresh spinach, stems removed
-
-½ cup (125ml) water, hot or lukewarm only
-
-¼ tsp. sea salt
+- 1 cup (115g) onion, coarsely chopped, red only
+- 1 ½ tbsp. fresh ginger, chopped or grated
+- 1 tsp. olive oil
+- 2 ½ tsp. curry powder
+- 1 x 19-oz. (approx. 500g) can chickpeas, rinsed
+- 1 x 14-oz. (400g) can no-sodium-added diced tomatoes with liquid
+- 1 x 10-oz. (225g) bag fresh spinach, stems removed
+- ½ cup (125ml) water, hot or lukewarm only
+- ¼ tsp. sea salt
 
 
 ### INSTRUCTIONS
@@ -61,6 +53,7 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 5.	Mix with the spinach, water, and salt. Cook another minute until spinach wilts. Serve over brown rice.
 
 Optional: Serve with rice or bread rolls.
+
 
 
 

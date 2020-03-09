@@ -33,21 +33,14 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 
 ### INGREDIENTS
 
-1 lb (400g) pasta
-
-1 small can evaporated milk
-
-1 can cream of mushroom soup
-
-1 small can Nestle cream
-
-1 cup (75g) sliced mushrooms
-
-1/2 cup (50g) grated cheese
-
-1 cup (135g) diced ham/bacon
-
-3/4 stick butter
+- 1 lb (400g) pasta
+- 1 small can evaporated milk
+- 1 can cream of mushroom soup
+- 1 small can Nestle cream
+- 1 cup (75g) sliced mushrooms
+- 1/2 cup (50g) grated cheese
+- 1 cup (135g) diced ham/bacon
+- 3/4 stick butter
 
 
 ### INSTRUCTIONS
@@ -58,6 +51,7 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 4.	Add half cup of grated cheese while stirring constantly.
 5.	Cook for 15 min. continue stirring
 6.	Serve over pasta, add bacon bits on top.
+
 
 
 

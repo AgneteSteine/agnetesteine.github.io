@@ -33,17 +33,12 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate with a
 
 ### INGREDIENTS
 
-8 ounces (250ml) 1 percent low-fat milk
-
-1/4-inch piece peeled, fresh ginger, sliced into 2 rounds
-
-2 teaspoons unsweetened cocoa powder
-
-2 teaspoons sugar
-
-2 teaspoons water
-
-1/4 teaspoon dark chocolate shavings (about 1/8-ounce)
+- 8 ounces (250ml) 1 percent low-fat milk
+- 1/4-inch piece peeled, fresh ginger, sliced into 2 rounds
+- 2 teaspoons unsweetened cocoa powder
+- 2 teaspoons sugar
+- 2 teaspoons water
+- 1/4 teaspoon dark chocolate shavings (about 1/8-ounce)
 
 
 ### INSTRUCTIONS
@@ -53,6 +48,7 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate with a
 3. Remove the ginger from the warmed milk.
 4. Add the chocolate mixture to the milk and whisk until slightly frothy.
 5. Pour the hot chocolate into the mug and top with chocolate shavings.
+
 
 
 

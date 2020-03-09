@@ -32,21 +32,19 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 
 
 ### INGREDIENTS
-1 cup (250ml) water
 
-1 teaspoon aniseed
-
-1/4 teaspoon ginger
-
-1 tablespoon lemon juice
-
-1 tablespoon honey
+- 1 cup (250ml) water
+- 1 teaspoon aniseed
+- 1/4 teaspoon ginger
+- 1 tablespoon lemon juice
+- 1 tablespoon honey
 
 
 ### INSTRUCTIONS
 
 1. Combine ingredients in small pan. Bring to boil, lower heat, simmer for 5 minutes.
 2. Strain. Serve hot in cups.
+
 
 
 

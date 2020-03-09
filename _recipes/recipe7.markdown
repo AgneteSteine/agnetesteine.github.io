@@ -33,23 +33,15 @@ Cookies are easy to make, and easy to like. This recipe is no exception. These c
 
 ### INGREDIENTS
 
-1 1/2 cups (200g) plain flour
-
-1/2 teaspoon (3g) baking soda (bicarbonate of soda)
-
-1/4 teaspoon (1.5g) salt
-
-1/2 cup (100g) butter
-
-3/4 cup (150g) sugar
-
-1/2 teaspoon (2.5ml) vanilla extract
-
-1 large egg
-
-3/4 cup (100g) white chocolate cut or broken into small chunks
-
-3/4 cup (100g) dried cranberries chopped into small pieces
+- 1 1/2 cups (200g) plain flour
+- 1/2 teaspoon (3g) baking soda (bicarbonate of soda)
+- 1/4 teaspoon (1.5g) salt
+- 1/2 cup (100g) butter
+- 3/4 cup (150g) sugar
+- 1/2 teaspoon (2.5ml) vanilla extract
+- 1 large egg
+- 3/4 cup (100g) white chocolate cut or broken into small chunks
+- 3/4 cup (100g) dried cranberries chopped into small pieces
 
 
 ### INSTRUCTIONS
@@ -66,6 +58,7 @@ Cookies are easy to make, and easy to like. This recipe is no exception. These c
 7.	Cook for 9-11 minutes, until the cookies are golden brown.  They will be soft when they come out of the oven so leave them for a couple of minutes to firm up before lifting them off the tray.
 
 The mixture makes approximately 18 cookies of 7cm diameter.
+
 
 
 

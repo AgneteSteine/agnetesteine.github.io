@@ -32,11 +32,9 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious but 
 
 ### INGREDIENTS
 
-1 cup (90g) porridge oats
-
-1 1/4 cups (310ml) milk
-
-1 banana sliced (optional)
+- 1 cup (90g) porridge oats
+- 1 1/4 cups (310ml) milk
+- 1 banana sliced (optional)
 
 
 ### INSTRUCTIONS
@@ -61,6 +59,7 @@ I used one banana, dried cranberries, walnuts, pecan nuts, and a dash of honey a
 
 
 
-Photo credit: Agnete Steine
 
-Source: http://www.abasiccook.com/?space-recipes=porridge-oatmeal
+**Photo credit:** Agnete Steine
+
+**Source:** http://www.abasiccook.com/?space-recipes=porridge-oatmeal

@@ -33,25 +33,16 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 
 ### INGREDIENTS
 
-2 cups (250g) flour
-
-2 ½ tsp. baking powder
-
-½ tsp. salt
-
-⅔ cup (135g) shortening
-
-1 cup (200g) sugar
-
-2 tbsp. instant coffee
-
-3 eggs
-
-⅔ cup (150-160ml) milk
-
-1 tsp. vanilla extract
-
-1 cup (150g) chopped pecans
+- 2 cups (250g) flour
+- 2 ½ tsp. baking powder
+- ½ tsp. salt
+- ⅔ cup (135g) shortening
+- 1 cup (200g) sugar
+- 2 tbsp. instant coffee
+- 3 eggs
+- ⅔ cup (150-160ml) milk
+- 1 tsp. vanilla extract
+- 1 cup (150g) chopped pecans
 
 
 ### INSTRUCTIONS
@@ -62,6 +53,7 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 4. Beat with eggs until light and fluffy. Add the flour mixture alternately with the milk and vanilla.
 5.	Add nuts.
 6.	Spoon into the greased loaf pan (or two small pans) and bake 55 minutes at 350° F or until the cake tester in the center comes out clean.
+
 
 
 

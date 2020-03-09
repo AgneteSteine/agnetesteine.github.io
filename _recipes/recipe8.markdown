@@ -33,17 +33,12 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 
 ### INGREDIENTS
 
-4 eggs
-
-200g sugar
-
-75g cacao powder
-
-100g soy oil
-
-160g white flour
-
-8 tablespoons peanut butter
+- 4 eggs
+- 200g sugar
+- 75g cacao powder
+- 100g soy oil
+- 160g white flour
+- 8 tablespoons peanut butter
 
 
 ### INSTRUCTIONS
@@ -58,6 +53,7 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 8. Use a spoon and pour the peanut butter in large "waves" over the cake tin. Use a fork to even out the peanut butter and to make patterns in the mixture.
 9. Bake the brownies in the middle of the oven for about 20 minutes.
 10. Cool down the cake and cut it into pieces before serving.
+
 
 
 
