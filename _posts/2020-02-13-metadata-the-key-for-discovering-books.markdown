@@ -14,7 +14,7 @@ Metadata is nowadays one of the most important elements for discovering books.
 But what is it? And what does it mean for publishers?
 
 
-[![data](/_uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)](/_uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)
+[![Data](/_uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)](/_uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)
 Photo Credit: Franki Chamaki on Unsplash
 
 
