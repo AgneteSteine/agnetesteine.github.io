@@ -13,7 +13,7 @@ tags:
 
 # Butter Chicken
 
-If you love Indian food then this dinner recipe is perfect for you. it is very simple to make, you do not need a lot of ingredients, and it tastes delicious. The butter chicken tastes even better with some white rice and garlic naan bread on the side.
+If you love Indian food then this recipe is perfect for you. It is easy to make, you do not need a lot of ingredients, and it tastes delicious. The butter chicken tastes even better with some white rice and garlic naan bread on the side.
 
 <!--more-->
 

@@ -13,7 +13,7 @@ tags:
 
 # Ginger Spiced Hot Chocolate
 
-Achieve ultimate comfort in a mug with this smooth and rich hot chocolate with an added kick. This recipe is easy to make with just a few simple ingredients and steps. What could be more perfect on a cold winter's day than a cup of hot chocolate?
+Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with an added kick. This recipe is easy to make with just a few simple ingredients and steps. What could be more perfect on a cold winter's day than a cup of hot chocolate?
 
 <!--more-->
 

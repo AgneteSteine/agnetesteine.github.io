@@ -13,7 +13,7 @@ tags:
 
 # Creamy Carbonara
 
-Spaghetti Carbonara is a known classic that probably many of you have ordered at a restaurant. The main can also be made at home, and is great to make when you crave a bit of comfort food. Just a handful of ingrediences and you have yoursef a wonderfully indulgent meal.
+Spaghetti Carbonara is a known classic that probably many of you have ordered at a restaurant. The main can also be made at home, and is great to make when you crave a bit of comfort food. Just a handful of ingredients and you have yourself a wonderfully indulgent meal.
 
 <!--more-->
 

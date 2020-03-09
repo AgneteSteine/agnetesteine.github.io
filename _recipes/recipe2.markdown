@@ -12,7 +12,7 @@ tags:
 
 # Oatmeal Porridge
 
-Oatmeal porridge is a fantastic breakfast option that is not only delicious but also very healthy. With an unlimited amount of topping options, this recipe can turn an oatmeal sceptic into a devoted fan. Creamy, hearty and warming. A perfect way to start a winter's day.
+Oatmeal porridge is a fantastic breakfast option that is not only delicious, but also very healthy. With an unlimited amount of topping options, this recipe can turn any oatmeal sceptic into a devoted fan. Creamy, hearty and warming. A perfect way to start a winter's day.
 
 <!--more-->
 

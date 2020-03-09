@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-## The Winter Kitchen
+# The Winter Kitchen
 
 
 Winter is a beautiful season. It is a season of fun in the snow, holiday festivities and great memories. But it is also a time of plunging temperatures and icy weather. The time of year where we crave food of comfort to keep us warm. The Winter Kitchen is a short collection of recipes which are great for cozying up inside.
