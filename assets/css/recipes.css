@@ -140,3 +140,8 @@ h1.title.recipelist a{
 h1.site-title a {
 color:rgb(208, 82, 7);
 }
+
+.intro {
+  color: rgba(53, 55, 52, 0.63);
+  line-height: 2.0;
+}
