@@ -129,6 +129,12 @@ body.recipelist a {
   list-style: none;
 }
 
+h1.title.recipelist a{
+  color:black;
+  font-family: Verdana, Geneva, sans-serif;
+  list-style: none;
+}
+
 h1.site-title a {
 color:rgb(208, 82, 7);
 }
