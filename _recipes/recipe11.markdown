@@ -23,16 +23,23 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 ### INFO
 
 **Preparation time:** 2 minutes
+
 **Cooking time:** 5 minutes
+
 **Difficulty:** Very Easy
+
 **Servings:** 1
 
 
 ### INGREDIENTS
 1 cup (250ml) water
+
 1 teaspoon aniseed
+
 1/4 teaspoon ginger
+
 1 tablespoon lemon juice
+
 1 tablespoon honey
 
 
@@ -44,4 +51,5 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 
 
 **Photo credit:** Taisiia Shestopal on Unsplash
+
 **Source:** https://recipes.fandom.com/wiki/Anis-Ginger_Tea

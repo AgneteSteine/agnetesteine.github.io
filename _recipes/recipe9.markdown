@@ -23,22 +23,34 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 ### INFO
 
 **Preparation time:** 15 minutes
+
 **Cooking time:** 55 minutes
+
 **Difficulty:** Easy
+
 **Servings:** 10 pieces
 
 
 ### INGREDIENTS
 
 2 cups (250g) flour
+
 2 ½ tsp. baking powder
+
 ½ tsp. salt
+
 ⅔ cup (135g) shortening
+
 1 cup (200g) sugar
+
 2 tbsp. instant coffee
+
 3 eggs
+
 ⅔ cup (150-160ml) milk
+
 1 tsp. vanilla extract
+
 1 cup (150g) chopped pecans
 
 
@@ -54,4 +66,5 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 
 
 **Photo credit:** Marta Dzedyshko from Pexels
+
 **Source:** https://recipes.fandom.com/wiki/Coffee_Pecan_Loaf

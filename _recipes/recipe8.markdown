@@ -23,18 +23,26 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 ### INFO
 
 **Preparation time:** 10 minutes
+
 **Cooking time:** 40 minutes
+
 **Difficulty:** Easy
+
 **Servings:** Pieces
 
 
 ### INGREDIENTS
 
 4 eggs
+
 200g sugar
+
 75g cacao powder
+
 100g soy oil
+
 160g white flour
+
 8 tablespoons peanut butter
 
 
@@ -54,4 +62,5 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 
 
 **Photo credit:** Agnete Steine
+
 **Source:** https://www.mills.no/oppskrift/mills/marmorert-brownie-med-peanottsmor/

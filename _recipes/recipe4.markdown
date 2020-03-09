@@ -23,28 +23,46 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 ### INFO
 
 **Preparation time:** 15 minutes
+
 **Cooking time:** 180 minutes
+
 **Difficulty:** Easy
+
 **Servings:** 4
 
 
 ### INGREDIENTS
 
 2 large carrots
+
 2 parnsips
+
 2 sticks of celery
+
 2 medium onions
+
 200g button mushrooms
+
 2 cloves of garlic
+
 800g stewing steak in chunks
+
 2 1/2 tablespoons plain flour
+
 3 tablespoons rapeseed (canola) or olive oil
+
 2 tablespoons Worcestershire sauce
+
 2 tablespoons tomato puree
+
 500ml beef stock (either homemade or a store bought tub or made from a beef stock cube or concentrate)
+
 2 fresh bay Leaves
+
 A small bunch (approx. 10g) fresh thyme
+
 A small bunch (approx. 10g) fresh flat leaf parsley
+
 Salt and pepper (to taste)
 
 
@@ -62,4 +80,5 @@ Salt and pepper (to taste)
 
 
 **Photo credit:** Charles Deluvio on Unsplash
+
 **Source:** http://www.abasiccook.com/?space-recipes=beef-and-vegetable-stew

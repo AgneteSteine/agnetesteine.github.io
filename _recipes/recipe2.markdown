@@ -22,15 +22,20 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious but 
 ### INFO
 
 **Preparation time:** 1 minutes
+
 **Cooking time:** 2 minutes
+
 **Difficulty:** Very easy
+
 **Servings:** 1
 
 
 ### INGREDIENTS
 
 1 cup (90g) porridge oats
+
 1 1/4 cups (310ml) milk
+
 1 banana sliced (optional)
 
 
@@ -57,4 +62,5 @@ I used one banana, dried cranberries, walnuts, pecan nuts, and a dash of honey a
 
 
 Photo credit: Agnete Steine
+
 Source: http://www.abasiccook.com/?space-recipes=porridge-oatmeal

@@ -23,25 +23,40 @@ If you love Indian food then this dinner recipe is perfect for you. it is very s
 ### INFO
 
 **Preparation time:** 15 minutes
+
 **Cooking time:** 30 minutes
+
 **Difficulty:** Easy
+
 **Servings:** 4
 
 
 ### INGREDIENTS
 
 4 chicken breasts, skinned
+
 1 large onion, finely chopped
+
 3 tbsp. butter
+
 2 tsp. garlic, crushed
+
 1 tsp. ginger, grated
+
 1 tsp. green chili peppers, finely chopped
+
 1/2 tsp. paprika
+
 1 tbsp. curry powder
+
 1 cup tomato sauce
+
 1 tsp. salt
+
 1 tsp. black pepper
+
 1 cup whipping cream, or half and half
+
 1 tbsp. cilantro, finely chopped
 
 
@@ -55,4 +70,5 @@ If you love Indian food then this dinner recipe is perfect for you. it is very s
 
 
 **Photo credit:** Agnete Steine
+
 **Source:** https://recipes.fandom.com/wiki/Butter_Chicken
