@@ -18,7 +18,8 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious but 
 
 [![Oatmeal Porridge](/_uploads/IMG_0088copy2.jpg)](/_uploads/IMG_0088copy2.jpg)
 
-## Info
+
+### INFO
 
 **Preparation time:** 1 minutes
 **Cooking time:** 2 minutes
@@ -26,21 +27,21 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious but 
 **Servings:** 1
 
 
-## Ingredients
+### INGREDIENTS
 
-- 1 cup (90g) porridge oats
-- 1 1/4 cups (310ml) milk
-- 1 banana sliced (optional)
+1 cup (90g) porridge oats
+1 1/4 cups (310ml) milk
+1 banana sliced (optional)
 
 
-## Instructions
+### INSTRUCTIONS
 
 1.	Put the porridge oats and milk into a small pot over a medium heat.
 2.	Bring the porridge to a boil and boil for 1 minute while stirring
 3.	Serve straight away topped with your favourite toppings…
 
 
-### Topping ideas
+#### TOPPING IDEAS
 
 - Fresh fruit
 - Nuts and seeds
@@ -50,9 +51,10 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious but 
 - Nut butter
 - Brown sugar
 
+
 I used one banana, dried cranberries, walnuts, pecan nuts, and a dash of honey and cinnamon.
 
 
-Source: http://www.abasiccook.com/?space-recipes=porridge-oatmeal
 
 Photo credit: Agnete Steine
+Source: http://www.abasiccook.com/?space-recipes=porridge-oatmeal

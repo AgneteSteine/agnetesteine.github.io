@@ -19,7 +19,8 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 
 [![Curry](/_uploads/curry.jpg)](/_uploads/curry.jpg)
 
-## Info
+
+### INFO
 
 **Preparation time:** 10 minutes
 **Cooking time:** 15 minutes
@@ -27,7 +28,7 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 **Servings:** 6
 
 
-## Ingredients
+### INGREDIENTS
 
 1 cup (115g) onion, coarsely chopped, red only
 1 ½ tbsp. fresh ginger, chopped or grated
@@ -40,7 +41,7 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 ¼ tsp. sea salt
 
 
-## Instructions
+### INSTRUCTIONS
 
 1.	Combine onion and ginger in food processor and pulse until minced.
 2.	Heat oil in a large skillet over medium high heat.
@@ -48,9 +49,9 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 4.	Add chickpeas and tomatoes; simmer for 2 minutes.
 5.	Mix with the spinach, water, and salt. Cook another minute until spinach wilts. Serve over brown rice.
 
-
 Optional: Serve with rice or bread rolls.
 
-Source: https://recipes.fandom.com/wiki/Chickpea_and_Spinach_Curry
 
-Photo credit: Dragne Marius on Unsplash
+
+**Photo credit:** Dragne Marius on Unsplash
+**Source:** https://recipes.fandom.com/wiki/Chickpea_and_Spinach_Curry

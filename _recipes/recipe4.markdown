@@ -19,7 +19,8 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 
 [![Beef Stew](/_uploads/beefstew.jpg)](/_uploads/beefstew.jpg)
 
-## Info
+
+### INFO
 
 **Preparation time:** 15 minutes
 **Cooking time:** 180 minutes
@@ -27,27 +28,27 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 **Servings:** 4
 
 
-## Ingredients
+### INGREDIENTS
 
-- 2 large carrots
-- 2 parnsips
-- 2 sticks of celery
-- 2 medium onions
-- 200g button mushrooms
-- 2 cloves of garlic
-- 800g stewing steak in chunks
-- 2 1/2 tablespoons plain flour
-- 3 tablespoons rapeseed (canola) or olive oil
-- 2 tablespoons Worcestershire sauce
-- 2 tablespoons tomato puree
-- 500ml beef stock (either homemade or a store bought tub or made from a beef stock cube or concentrate)
-- 2 fresh bay Leaves
-- A small bunch (approx. 10g) fresh thyme
-- A small bunch (approx. 10g) fresh flat leaf parsley
-- Salt and pepper (to taste)
+2 large carrots
+2 parnsips
+2 sticks of celery
+2 medium onions
+200g button mushrooms
+2 cloves of garlic
+800g stewing steak in chunks
+2 1/2 tablespoons plain flour
+3 tablespoons rapeseed (canola) or olive oil
+2 tablespoons Worcestershire sauce
+2 tablespoons tomato puree
+500ml beef stock (either homemade or a store bought tub or made from a beef stock cube or concentrate)
+2 fresh bay Leaves
+A small bunch (approx. 10g) fresh thyme
+A small bunch (approx. 10g) fresh flat leaf parsley
+Salt and pepper (to taste)
 
 
-## Instructions
+### INSTRUCTIONS
 
 1.	Preheat the oven to 150˚C Fan or 160˚C.
 2.	First, prepare the vegetables.  Remove the ends, peel and slice the carrots, parsnips and celery. (I peel the fibrous strings from the back of the celery sticks).  You want the slices to be reasonably thick as the vegetables will be cooking for 3 hours and you don’t want them to be a mushy heap at the end.
@@ -59,6 +60,6 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 8.	Cook for 2 1/2 hours (stirring occasionally if you happen to be in the kitchen).  Then add the mushrooms and cook for a further 30 minutes. Remove the cooked herbs before serving.
 
 
-Source: http://www.abasiccook.com/?space-recipes=beef-and-vegetable-stew
 
-Photo credit: Charles Deluvio on Unsplash
+**Photo credit:** Charles Deluvio on Unsplash
+**Source:** http://www.abasiccook.com/?space-recipes=beef-and-vegetable-stew

@@ -19,14 +19,16 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate with a
 
 [![Hot chocolate](/_uploads/hotchocolate.jpg)](/_uploads/hotchocolate.jpg)
 
-## Info
+
+### INFO
 
 **Preparation time:** 5 minutes
 **Cooking time:** 5 minutes
 **Difficulty:** Very Easy
 **Servings:** 2
 
-## Ingredients
+
+### INGREDIENTS
 
 8 ounces (250ml) 1 percent low-fat milk
 1/4-inch piece peeled, fresh ginger, sliced into 2 rounds
@@ -36,7 +38,7 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate with a
 1/4 teaspoon dark chocolate shavings (about 1/8-ounce)
 
 
-## Instructions
+### INSTRUCTIONS
 
 1. In a small saucepan heat the milk and ginger over a medium-low heat until scalding, about 4 minutes. While the milk is warming, put cocoa powder and sugar into a mug.
 2. Add the water to the mug and stir until the mixture has the consistency of a paste.
@@ -45,6 +47,6 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate with a
 5. Pour the hot chocolate into the mug and top with chocolate shavings.
 
 
-Source: https://recipes.fandom.com/wiki/Ginger_Spiced_Hot_Chocolate
 
-Photo credit: Maddi Bazzocco on Unsplash
+**Photo credit:** Maddi Bazzocco on Unsplash
+**Source:** https://recipes.fandom.com/wiki/Ginger_Spiced_Hot_Chocolate

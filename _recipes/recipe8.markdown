@@ -19,7 +19,8 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 
 [![Peanut butter Brownies](/_uploads/IMG_0352-1copy.jpg)](/_uploads/IMG_0352-1copy.jpg)
 
-## Info
+
+### INFO
 
 **Preparation time:** 10 minutes
 **Cooking time:** 40 minutes
@@ -27,17 +28,17 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 **Servings:** Pieces
 
 
-## Ingredients
+### INGREDIENTS
 
-- 4 eggs
-- 200g sugar
-- 75g cacao powder
-- 100g soy oil
-- 160g white flour
-- 8 tablespoons peanut butter
+4 eggs
+200g sugar
+75g cacao powder
+100g soy oil
+160g white flour
+8 tablespoons peanut butter
 
 
-## Instructions
+### INSTRUCTIONS
 
 1. Pre-heat oven on 160 degrees celsius.
 2. Put baking sheet in a cake tin of approximately 35 x 25 cm.
@@ -51,6 +52,6 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 10. Cool down the cake and cut it into pieces before serving.
 
 
-Source: https://www.mills.no/oppskrift/mills/marmorert-brownie-med-peanottsmor/
 
-Photo credit: Agnete Steine
+**Photo credit:** Agnete Steine
+**Source:** https://www.mills.no/oppskrift/mills/marmorert-brownie-med-peanottsmor/

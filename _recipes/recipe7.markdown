@@ -19,7 +19,8 @@ Cookies are easy to make, and easy to like. This recipe is no exception. These c
 
 [![Cranberry Cookies](/_uploads/IMG_0186_1copy.jpg)](/_uploads/IMG_0186_1copy.jpg)
 
-## Info
+
+### INFO
 
 **Preparation time:** 15 minutes
 **Cooking time:** 11-12 minutes
@@ -27,20 +28,20 @@ Cookies are easy to make, and easy to like. This recipe is no exception. These c
 **Servings:** 18
 
 
-## Ingredients
+### INGREDIENTS
 
-- 1 1/2 cups (200g) plain flour
-- 1/2 teaspoon (3g) baking soda (bicarbonate of soda)
-- 1/4 teaspoon (1.5g) salt
-- 1/2 cup (100g) butter
-- 3/4 cup (150g) sugar
-- 1/2 teaspoon (2.5ml) vanilla extract
-- 1 large egg
-- 3/4 cup (100g) white chocolate cut or broken into small chunks
-- 3/4 cup (100g) dried cranberries chopped into small pieces
+1 1/2 cups (200g) plain flour
+1/2 teaspoon (3g) baking soda (bicarbonate of soda)
+1/4 teaspoon (1.5g) salt
+1/2 cup (100g) butter
+3/4 cup (150g) sugar
+1/2 teaspoon (2.5ml) vanilla extract
+1 large egg
+3/4 cup (100g) white chocolate cut or broken into small chunks
+3/4 cup (100g) dried cranberries chopped into small pieces
 
 
-## Instructions
+### INSTRUCTIONS
 
 1.	Preheat the oven to 190˚C or 180˚C if using a fan oven.
 2.	Combine the flour, baking soda and salt in a small bowl.
@@ -55,6 +56,7 @@ Cookies are easy to make, and easy to like. This recipe is no exception. These c
 
 The mixture makes approximately 18 cookies of 7cm diameter.
 
-Source: http://www.abasiccook.com/?space-recipes=cranberry-and-white-chocolate-cookies
 
-Photo credit: Agnete Steine
+
+**Photo credit:** Agnete Steine
+**Source:** http://www.abasiccook.com/?space-recipes=cranberry-and-white-chocolate-cookies
