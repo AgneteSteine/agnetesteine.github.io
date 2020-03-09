@@ -16,7 +16,7 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious but 
 
 <!--more-->
 
-[![Oatmeal Porridge](/_uploads/IMG_0088copy2.jpg)](/_uploads/IMG_0088copy2.jpg)
+[![Porridge](/_uploads/IMG_0088copy2.jpg)](/_uploads/IMG_0088copy2.jpg)
 
 
 ### INFO
