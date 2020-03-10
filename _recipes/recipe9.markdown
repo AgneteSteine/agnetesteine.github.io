@@ -23,11 +23,8 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 ### INFO
 
 **Preparation time:** 15 minutes
-
 **Cooking time:** 55 minutes
-
 **Difficulty:** Easy
-
 **Servings:** 10 pieces
 
 <hr>
@@ -56,9 +53,7 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 5.	Add nuts.
 6.	Spoon into the greased loaf pan (or two small pans) and bake 55 minutes at 350° F or until the cake tester in the center comes out clean.
 
-
 <hr>
 
 **Photo credit:** Marta Dzedyshko from Pexels
-
 **Source:** https://recipes.fandom.com/wiki/Coffee_Pecan_Loaf

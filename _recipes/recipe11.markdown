@@ -23,11 +23,8 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 ### INFO
 
 **Preparation time:** 2 minutes
-
 **Cooking time:** 5 minutes
-
 **Difficulty:** Very Easy
-
 **Servings:** 1
 
 <hr>
@@ -47,9 +44,7 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 1. Combine ingredients in small pan. Bring to boil, lower heat, simmer for 5 minutes.
 2. Strain. Serve hot in cups.
 
-
 <hr>
 
 **Photo credit:** Taisiia Shestopal on Unsplash
-
 **Source:** https://recipes.fandom.com/wiki/Anis-Ginger_Tea

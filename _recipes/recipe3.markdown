@@ -23,11 +23,8 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 ### INFO
 
 **Preparation time:** 30 minutes
-
 **Cooking time:** 30 minutes
-
 **Difficulty:** Easy
-
 **Servings:** 4
 
 <hr>
@@ -54,9 +51,7 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 5.	Cook for 15 min. continue stirring
 6.	Serve over pasta, add bacon bits on top.
 
-
 <hr>
 
 **Photo credit:** Bruna Branco on Unsplash
-
 **Source:** https://recipes.fandom.com/wiki/Creamy_Carbonara

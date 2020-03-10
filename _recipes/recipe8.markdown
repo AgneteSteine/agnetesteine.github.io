@@ -23,11 +23,8 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 ### INFO
 
 **Preparation time:** 10 minutes
-
 **Cooking time:** 40 minutes
-
 **Difficulty:** Easy
-
 **Servings:** 15-18 pieces
 
 <hr>
@@ -56,9 +53,7 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 9. Bake the brownies in the middle of the oven for about 20 minutes.
 10. Cool down the cake and cut it into pieces before serving.
 
-
 <hr>
 
 **Photo credit:** Agnete Steine
-
 **Source:** https://www.mills.no/oppskrift/mills/marmorert-brownie-med-peanottsmor/

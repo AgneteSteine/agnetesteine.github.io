@@ -23,11 +23,8 @@ If you love Indian food then this recipe is perfect for you. It is easy to make,
 ### INFO
 
 **Preparation time:** 15 minutes
-
 **Cooking time:** 30 minutes
-
 **Difficulty:** Easy
-
 **Servings:** 4
 
 <hr>
@@ -57,9 +54,7 @@ If you love Indian food then this recipe is perfect for you. It is easy to make,
 3.	Add tomato sauce, salt, black pepper and chicken, slowly bringing to a boil. Reduce heat, simmering until chicken is nearly done, about 15 to 20 minutes.
 4.	Add whipping cream; stir and simmer until chicken is tender. Garnish with the cilantro.
 
-
 <hr>
 
 **Photo credit:** Agnete Steine
-
 **Source:** https://recipes.fandom.com/wiki/Butter_Chicken

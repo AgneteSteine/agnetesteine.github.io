@@ -60,9 +60,7 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious, but
 
 I used one banana, dried cranberries, walnuts, pecan nuts, and a dash of honey and cinnamon.
 
-
 <hr>
 
 **Photo credit:** Agnete Steine
-
 **Source:** http://www.abasiccook.com/?space-recipes=porridge-oatmeal

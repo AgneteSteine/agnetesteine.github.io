@@ -23,11 +23,8 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 ### INFO
 
 **Preparation time:** 15 minutes
-
 **Cooking time:** 180 minutes
-
 **Difficulty:** Easy
-
 **Servings:** 4
 
 <hr>
@@ -64,9 +61,7 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 7.	Pour the Worcestershire Sauce into the casserole dish and add the tomato paste.  Give everything a good stir.  Then add the carrots, parsnips, celery, onion and garlic.  (Don’t add the mushrooms at this stage).  Add the stock and mix everything well.  Tuck the herbs in and bring the casserole dish up to a simmer on the stove top then put the dish into the oven.
 8.	Cook for 2 1/2 hours (stirring occasionally if you happen to be in the kitchen).  Then add the mushrooms and cook for a further 30 minutes. Remove the cooked herbs before serving.
 
-
 <hr>
 
 **Photo credit:** Charles Deluvio on Unsplash
-
 **Source:** http://www.abasiccook.com/?space-recipes=beef-and-vegetable-stew

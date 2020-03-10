@@ -23,11 +23,8 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 ### INFO
 
 **Preparation time:** 10 minutes
-
 **Cooking time:** 15 minutes
-
 **Difficulty:** Easy
-
 **Servings:** 6
 
 <hr>
@@ -56,9 +53,7 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 
 Optional: Serve with rice or bread rolls.
 
-
 <hr>
 
 **Photo credit:** Dragne Marius on Unsplash
-
 **Source:** https://recipes.fandom.com/wiki/Chickpea_and_Spinach_Curry

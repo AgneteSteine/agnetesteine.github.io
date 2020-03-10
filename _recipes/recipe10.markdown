@@ -23,11 +23,8 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with 
 ### INFO
 
 **Preparation time:** 5 minutes
-
 **Cooking time:** 5 minutes
-
 **Difficulty:** Very Easy
-
 **Servings:** 2
 
 <hr>
@@ -51,9 +48,7 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with 
 4. Add the chocolate mixture to the milk and whisk until slightly frothy.
 5. Pour the hot chocolate into the mug and top with chocolate shavings.
 
-
 <hr>
 
 **Photo credit:** Maddi Bazzocco on Unsplash
-
 **Source:** https://recipes.fandom.com/wiki/Ginger_Spiced_Hot_Chocolate
