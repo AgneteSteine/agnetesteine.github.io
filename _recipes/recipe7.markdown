@@ -63,3 +63,5 @@ The mixture makes approximately 18 cookies of 7cm diameter.
 **Photo credit:** Agnete Steine
 
 **Source:** http://www.abasiccook.com/?space-recipes=cranberry-and-white-chocolate-cookies
+
+<hr>

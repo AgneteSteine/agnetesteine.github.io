@@ -53,3 +53,5 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with 
 **Photo credit:** Maddi Bazzocco on Unsplash
 
 **Source:** https://recipes.fandom.com/wiki/Ginger_Spiced_Hot_Chocolate
+
+<hr>

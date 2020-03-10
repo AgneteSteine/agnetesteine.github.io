@@ -60,4 +60,7 @@ I used one banana, dried cranberries, walnuts, pecan nuts, and a dash of honey a
 <hr>
 
 **Photo credit:** Agnete Steine
+
 **Source:** http://www.abasiccook.com/?space-recipes=porridge-oatmeal
+
+<hr>

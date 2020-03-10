@@ -58,3 +58,5 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 **Photo credit:** Marta Dzedyshko from Pexels
 
 **Source:** https://recipes.fandom.com/wiki/Coffee_Pecan_Loaf
+
+<hr>
