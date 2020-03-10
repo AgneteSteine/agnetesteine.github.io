@@ -64,4 +64,5 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 <hr>
 
 **Photo credit:** Charles Deluvio on Unsplash
+
 **Source:** http://www.abasiccook.com/?space-recipes=beef-and-vegetable-stew

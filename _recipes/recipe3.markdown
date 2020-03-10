@@ -28,10 +28,10 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 **Servings:** 4
 
 
-**Preparation time**  |  30 minutes
-**Cooking time** |  30 minutes
-**Difficulty**  |  Easy
-**Servings** |  4
+**Preparation** | 30 minutes
+**Cooking**     | 30 minutes
+**Difficulty**       | Easy
+**Servings**         | 4
 
 <hr>
 
@@ -60,4 +60,5 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 <hr>
 
 **Photo credit:** Bruna Branco on Unsplash
+
 **Source:** https://recipes.fandom.com/wiki/Creamy_Carbonara

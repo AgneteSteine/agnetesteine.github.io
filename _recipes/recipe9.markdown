@@ -25,7 +25,7 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 **Preparation time:** 15 minutes
 **Cooking time:** 55 minutes
 **Difficulty:** Easy
-**Servings:** 10 pieces
+**Servings:** 10
 
 <hr>
 
@@ -56,4 +56,5 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 <hr>
 
 **Photo credit:** Marta Dzedyshko from Pexels
+
 **Source:** https://recipes.fandom.com/wiki/Coffee_Pecan_Loaf

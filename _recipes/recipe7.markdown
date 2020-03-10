@@ -25,7 +25,7 @@ Cookies are easy to make and easy to like. This recipe is no exception. These cr
 **Preparation time:** 15 minutes
 **Cooking time:** 11-12 minutes
 **Difficulty:** Very Easy
-**Servings:** 18 cookies
+**Servings:** 18
 
 <hr>
 
@@ -61,4 +61,5 @@ The mixture makes approximately 18 cookies of 7cm diameter.
 <hr>
 
 **Photo credit:** Agnete Steine
+
 **Source:** http://www.abasiccook.com/?space-recipes=cranberry-and-white-chocolate-cookies

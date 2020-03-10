@@ -47,4 +47,5 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 <hr>
 
 **Photo credit:** Taisiia Shestopal on Unsplash
+
 **Source:** https://recipes.fandom.com/wiki/Anis-Ginger_Tea

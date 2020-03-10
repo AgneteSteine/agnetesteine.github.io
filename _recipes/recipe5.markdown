@@ -57,4 +57,5 @@ If you love Indian food then this recipe is perfect for you. It is easy to make,
 <hr>
 
 **Photo credit:** Agnete Steine
+
 **Source:** https://recipes.fandom.com/wiki/Butter_Chicken

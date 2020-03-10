@@ -25,7 +25,7 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 **Preparation time:** 10 minutes
 **Cooking time:** 40 minutes
 **Difficulty:** Easy
-**Servings:** 15-18 pieces
+**Servings:** 15-18
 
 <hr>
 
@@ -56,4 +56,5 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 <hr>
 
 **Photo credit:** Agnete Steine
+
 **Source:** https://www.mills.no/oppskrift/mills/marmorert-brownie-med-peanottsmor/

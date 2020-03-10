@@ -56,4 +56,5 @@ Optional: Serve with rice or bread rolls.
 <hr>
 
 **Photo credit:** Dragne Marius on Unsplash
+
 **Source:** https://recipes.fandom.com/wiki/Chickpea_and_Spinach_Curry
