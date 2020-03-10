@@ -125,7 +125,6 @@ ul.recipes li {
   margin-left: 0;
   text-indent: 0;
   list-style: none;
-  text-decoration: underline;
   color:rgb(208, 82, 7);
 }
 
@@ -140,6 +139,7 @@ h1.title.recipelist a{
   font-family: Helvetica, sans-serif;
   font-size:1.5em;
   list-style: none;
+  text-decoration: underline;
 }
 
 h1.site-title a {
