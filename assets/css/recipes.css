@@ -170,9 +170,9 @@ color:rgb(208, 82, 7);
 table {
   display: block;
   color: black;
-  background-color:rgb(224, 224, 224);
+  background-color:rgb(228, 228, 228);
   width: 35%;
-  padding-bottom:2px;
+  padding-bottom:4px;
   padding-top:2px;
 }
 
