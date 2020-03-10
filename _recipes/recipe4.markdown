@@ -30,6 +30,7 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 
 **Servings:** 4
 
+<hr>
 
 ### INGREDIENTS
 
@@ -50,6 +51,7 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 - A small bunch (approx. 10g) fresh flat leaf parsley
 - Salt and pepper (to taste)
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -63,7 +65,7 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 8.	Cook for 2 1/2 hours (stirring occasionally if you happen to be in the kitchen).  Then add the mushrooms and cook for a further 30 minutes. Remove the cooked herbs before serving.
 
 
-
+<hr>
 
 **Photo credit:** Charles Deluvio on Unsplash
 

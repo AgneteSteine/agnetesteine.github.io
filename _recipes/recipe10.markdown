@@ -30,6 +30,7 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with 
 
 **Servings:** 2
 
+<hr>
 
 ### INGREDIENTS
 
@@ -40,6 +41,7 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with 
 - 2 teaspoons water
 - 1/4 teaspoon dark chocolate shavings (about 1/8-ounce)
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -50,7 +52,7 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with 
 5. Pour the hot chocolate into the mug and top with chocolate shavings.
 
 
-
+<hr>
 
 **Photo credit:** Maddi Bazzocco on Unsplash
 

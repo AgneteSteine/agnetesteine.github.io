@@ -30,6 +30,7 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 
 **Servings:** 6
 
+<hr>
 
 ### INGREDIENTS
 
@@ -43,6 +44,7 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 - ½ cup (125ml) water, hot or lukewarm only
 - ¼ tsp. sea salt
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -55,7 +57,7 @@ This is a curry with chickpeas, spinach, diced tomatoes and delicious seasoning.
 Optional: Serve with rice or bread rolls.
 
 
-
+<hr>
 
 **Photo credit:** Dragne Marius on Unsplash
 

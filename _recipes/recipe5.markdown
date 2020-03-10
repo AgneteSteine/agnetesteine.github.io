@@ -30,6 +30,7 @@ If you love Indian food then this recipe is perfect for you. It is easy to make,
 
 **Servings:** 4
 
+<hr>
 
 ### INGREDIENTS
 
@@ -47,6 +48,7 @@ If you love Indian food then this recipe is perfect for you. It is easy to make,
 - 1 cup whipping cream, or half and half
 - 1 tbsp. cilantro, finely chopped
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -56,7 +58,7 @@ If you love Indian food then this recipe is perfect for you. It is easy to make,
 4.	Add whipping cream; stir and simmer until chicken is tender. Garnish with the cilantro.
 
 
-
+<hr>
 
 **Photo credit:** Agnete Steine
 

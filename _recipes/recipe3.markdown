@@ -30,6 +30,7 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 
 **Servings:** 4
 
+<hr>
 
 ### INGREDIENTS
 
@@ -42,6 +43,7 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 - 1 cup (135g) diced ham/bacon
 - 3/4 stick butter
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -53,7 +55,7 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 6.	Serve over pasta, add bacon bits on top.
 
 
-
+<hr>
 
 **Photo credit:** Bruna Branco on Unsplash
 

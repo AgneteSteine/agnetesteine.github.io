@@ -30,6 +30,7 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 
 **Servings:** 15-18 pieces
 
+<hr>
 
 ### INGREDIENTS
 
@@ -40,6 +41,7 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 - 160g white flour
 - 8 tablespoons peanut butter
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -55,7 +57,7 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 10. Cool down the cake and cut it into pieces before serving.
 
 
-
+<hr>
 
 **Photo credit:** Agnete Steine
 

@@ -30,6 +30,7 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 
 **Servings:** 1
 
+<hr>
 
 ### INGREDIENTS
 
@@ -39,6 +40,7 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 - 1 tablespoon lemon juice
 - 1 tablespoon honey
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -46,7 +48,7 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 2. Strain. Serve hot in cups.
 
 
-
+<hr>
 
 **Photo credit:** Taisiia Shestopal on Unsplash
 

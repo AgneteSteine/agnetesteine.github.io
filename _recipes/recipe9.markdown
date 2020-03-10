@@ -30,6 +30,7 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 
 **Servings:** 10 pieces
 
+<hr>
 
 ### INGREDIENTS
 
@@ -44,6 +45,7 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 - 1 tsp. vanilla extract
 - 1 cup (150g) chopped pecans
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -55,7 +57,7 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 6.	Spoon into the greased loaf pan (or two small pans) and bake 55 minutes at 350° F or until the cake tester in the center comes out clean.
 
 
-
+<hr>
 
 **Photo credit:** Marta Dzedyshko from Pexels
 

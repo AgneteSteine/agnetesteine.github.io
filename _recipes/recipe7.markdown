@@ -30,6 +30,7 @@ Cookies are easy to make and easy to like. This recipe is no exception. These cr
 
 **Servings:** 18 cookies
 
+<hr>
 
 ### INGREDIENTS
 
@@ -43,6 +44,7 @@ Cookies are easy to make and easy to like. This recipe is no exception. These cr
 - 3/4 cup (100g) white chocolate cut or broken into small chunks
 - 3/4 cup (100g) dried cranberries chopped into small pieces
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -60,7 +62,7 @@ Cookies are easy to make and easy to like. This recipe is no exception. These cr
 The mixture makes approximately 18 cookies of 7cm diameter.
 
 
-
+<hr>
 
 **Photo credit:** Agnete Steine
 

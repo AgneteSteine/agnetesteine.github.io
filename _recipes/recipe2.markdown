@@ -29,6 +29,7 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious, but
 
 **Servings:** 1
 
+<hr>
 
 ### INGREDIENTS
 
@@ -36,6 +37,7 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious, but
 - 1 1/4 cups (310ml) milk
 - 1 banana sliced (optional)
 
+<hr>
 
 ### INSTRUCTIONS
 
@@ -43,6 +45,7 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious, but
 2.	Bring the porridge to a boil and boil for 1 minute while stirring
 3.	Serve straight away topped with your favourite toppings…
 
+<hr>
 
 #### TOPPING IDEAS
 
@@ -58,7 +61,7 @@ Oatmeal porridge is a fantastic breakfast option that is not only delicious, but
 I used one banana, dried cranberries, walnuts, pecan nuts, and a dash of honey and cinnamon.
 
 
-
+<hr>
 
 **Photo credit:** Agnete Steine
 
