@@ -22,10 +22,10 @@ This is a great Winter dish. Beef stew at its best. From this recipe you will ge
 
 ### INFO
 
-**Preparation time:** 15 minutes
-**Cooking time:** 180 minutes
-**Difficulty:** Easy
-**Servings:** 4
+**Preparation** | 15 minutes
+**Cooking**     | 180 minutes
+**Difficulty**       | Easy
+**Servings**         | 4
 
 <hr>
 

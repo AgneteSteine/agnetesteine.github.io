@@ -22,10 +22,10 @@ If you love the combination of sweet and salty, then you have to try this fudgy 
 
 ### INFO
 
-**Preparation time:** 10 minutes
-**Cooking time:** 40 minutes
-**Difficulty:** Easy
-**Servings:** 15-18
+**Preparation** | 10 minutes
+**Cooking**     | 40 minutes
+**Difficulty**       | Easy
+**Servings**         | 15-18
 
 <hr>
 

@@ -22,10 +22,10 @@ Achieve ultimate comfort in a mug with this smooth and rich hot chocolate, with 
 
 ### INFO
 
-**Preparation time:** 5 minutes
-**Cooking time:** 5 minutes
-**Difficulty:** Very Easy
-**Servings:** 2
+**Preparation** | 5 minutes
+**Cooking**     | 5 minutes
+**Difficulty**       | Very easy
+**Servings**         | 2
 
 <hr>
 

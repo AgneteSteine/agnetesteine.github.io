@@ -22,10 +22,10 @@ This classic version of a pecan loaf includes coffee for an added taste, and the
 
 ### INFO
 
-**Preparation time:** 15 minutes
-**Cooking time:** 55 minutes
-**Difficulty:** Easy
-**Servings:** 10
+**Preparation** | 15 minutes
+**Cooking**     | 55 minutes
+**Difficulty**       | Easy
+**Servings**         | 10
 
 <hr>
 

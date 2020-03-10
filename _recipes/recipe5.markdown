@@ -22,10 +22,10 @@ If you love Indian food then this recipe is perfect for you. It is easy to make,
 
 ### INFO
 
-**Preparation time:** 15 minutes
-**Cooking time:** 30 minutes
-**Difficulty:** Easy
-**Servings:** 4
+**Preparation** | 15 minutes
+**Cooking**     | 30 minutes
+**Difficulty**       | Easy
+**Servings**         | 4
 
 <hr>
 

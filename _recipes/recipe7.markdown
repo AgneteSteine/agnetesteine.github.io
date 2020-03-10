@@ -22,10 +22,10 @@ Cookies are easy to make and easy to like. This recipe is no exception. These cr
 
 ### INFO
 
-**Preparation time:** 15 minutes
-**Cooking time:** 11-12 minutes
-**Difficulty:** Very Easy
-**Servings:** 18
+**Preparation** | 15 minutes
+**Cooking**     | 10-12 minutes
+**Difficulty**       | Very easy
+**Servings**         | 18
 
 <hr>
 

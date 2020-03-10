@@ -22,10 +22,10 @@ It is cold outside, which makes it even better to enjoy a warm drink. Combine le
 
 ### INFO
 
-**Preparation time:** 2 minutes
-**Cooking time:** 5 minutes
-**Difficulty:** Very Easy
-**Servings:** 1
+**Preparation** | 2 minutes
+**Cooking**     | 5 minutes
+**Difficulty**       | Very easy
+**Servings**         | 1
 
 <hr>
 
