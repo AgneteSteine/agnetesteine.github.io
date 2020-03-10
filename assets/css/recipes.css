@@ -148,3 +148,7 @@ color:rgb(208, 82, 7);
 #post-nav a {
 color:rgb(208, 82, 7);
 }
+
+blockquote p strong {
+  display: block;
+}
