@@ -125,6 +125,7 @@ ul.recipes li {
   margin-left: 0;
   text-indent: 0;
   list-style: none;
+  text-decoration: underline;
   color:rgb(208, 82, 7);
 }
 
