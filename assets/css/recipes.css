@@ -38,6 +38,10 @@ h2,h3 {
   font-size: 2.0em;
 }
 
+h4 {
+  font-family: Helvetica, sans-serif;
+}
+
 .content {
   width: 100%;
   margin-left: auto;
