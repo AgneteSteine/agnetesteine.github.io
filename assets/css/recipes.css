@@ -111,7 +111,7 @@ a {
 /* for a menu for all recipes */
 ul.recipes {
   border: 1px solid gray;
-  width: 14%;
+  width: 12%;
   float:right;
   position: fixed;
   font-size: 50%;
