@@ -77,6 +77,10 @@ font-size: 1.25em;
     margin-left: auto;
     margin-right: auto;
   }
+
+  table {
+  font-size: 80%;
+}
 }
 
 img.cover {
@@ -170,12 +174,13 @@ color:rgb(208, 82, 7);
 table {
   display: block;
   color: black;
-  background-color:rgb(228, 228, 228);
-  width: 100%;
-  padding-bottom:4px;
+  background-color:rgb(224, 224, 224);
+  width: 70%;
+  padding-bottom:2px;
   padding-top:2px;
+  max-width: 300px;
 }
 
-td {
-  padding:4px 12px;
+  td {
+    padding:4px 12px;
 }
