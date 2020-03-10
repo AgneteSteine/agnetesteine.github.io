@@ -22,10 +22,16 @@ Spaghetti Carbonara is a known classic that probably many of you have ordered at
 
 ### INFO
 
->**Preparation time:** 30 minutes
->**Cooking time:** 30 minutes
->**Difficulty:** Easy
->**Servings:** 4
+**Preparation time:** 30 minutes
+**Cooking time:** 30 minutes
+**Difficulty:** Easy
+**Servings:** 4
+
+
+**Preparation time**  |  30 minutes
+**Cooking time** |  30 minutes
+**Difficulty**  |  Easy
+**Servings** |  4
 
 <hr>
 
