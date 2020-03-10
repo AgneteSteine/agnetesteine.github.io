@@ -16,7 +16,7 @@ img {
 }
 
 h1.title {
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size:2.5em;
   color:rgb(0, 0, 0);
 }
@@ -33,7 +33,7 @@ body {
 }
 
 h2,h3 {
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: Helvetica, sans-serif;
   color:black;
 }
 
@@ -45,7 +45,7 @@ h2,h3 {
 }
 
 h1.site-title {
-font-family: Verdana, Geneva, sans-serif;
+font-family: Helvetica, sans-serif;
 font-size: 1.25em;
 }
 
@@ -125,13 +125,13 @@ ul.recipes li {
 
 body.recipelist a {
   color:black;
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: Helvetica, sans-serif;
   list-style: none;
 }
 
 h1.title.recipelist a{
   color:black;
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size:1.5em;
   list-style: none;
 }
