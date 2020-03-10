@@ -30,6 +30,16 @@ body {
     font-family: Georgia, serif;
     margin: 30px;
     font-size: 1.10em;
+    margin:20px auto;
+    max-width: 800px;
+    width: 70%;
+    /* border:1px solid red; */
+}
+
+body.recipeshome {
+  width:70%;
+  margin:20px auto;
+  max-width:850px;
 }
 
 h2,h3 {
@@ -43,10 +53,10 @@ h4 {
 }
 
 .content {
-  width: 100%;
+  /* width: 100%; */
   margin-left: auto;
   margin-right: auto;
-  max-width: 800px;
+  /* max-width: 800px; */
 }
 
 h1.site-title {
@@ -56,14 +66,14 @@ font-size: 1.25em;
 
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 650px) {
 
   ul.recipes {
     display: none;
   }
 
   .content {
-    width: 100%;
+    /* width: 100%; */
     margin-left: auto;
     margin-right: auto;
   }
@@ -117,14 +127,17 @@ ul.recipes {
   font-size: 50%;
   top:10px;
   right:10px;
+  padding:4px;
   font-family: Georgia, serif;
   list-style: none;
+  background-color: white;
 }
 
 ul.recipes li {
   margin-left: 0;
   text-indent: 0;
   list-style: none;
+  padding-left: 0;
   color:rgb(208, 82, 7);
 }
 
@@ -141,8 +154,13 @@ h1.title.recipelist a{
   text-decoration: underline;
 }
 
+
 h1.site-title a {
 color:rgb(208, 82, 7);
+}
+
+.post-teaser h1 {
+  border-bottom: 1px solid black;
 }
 
 #post-nav a {
@@ -151,5 +169,11 @@ color:rgb(208, 82, 7);
 
 table {
   display: block;
-  color: rgb(186, 186, 186);
+  color: black;
+  background-color: rgb(186, 186, 186);
+  width: 50%;
+}
+
+td {
+  padding:2px 10px;
 }
