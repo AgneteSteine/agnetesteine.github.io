@@ -2,7 +2,7 @@
 layout: post
 title: What are the Different E-Book Devices and how do They Differ?
 date: 2020-03-22 19:45
-published: false
+published: true
 header_feature_image: _uploads/ereader.jpg
 caption:
 tags:    # use [tag1,tag2]
