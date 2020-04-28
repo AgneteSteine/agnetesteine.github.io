@@ -9,7 +9,7 @@ tags:    # use [tag1,tag2]
 ---
 ## What Makes a Good Book Cover?
 
-There is an old saying that goes; “Don’t judge a book by its cover”. It is a meaningful message to bring into your everyday life; of not basing your judgements on appearances only. But in the case of books? It could not be more out of place.
+There is an old saying that goes: “Don’t judge a book by its cover”. It is a meaningful message to bring into your everyday life; of not basing your judgements on appearances only. But in the case of books? It could not be more out of place.
 
 [![Cover](/_uploads/Utennavn1.jpg)](/_uploads/Utennavn1.jpg)
 Photo credit: Justin Aikin on  Unsplash
@@ -43,7 +43,7 @@ designing a cover to represent a certain genre, all elements come into play, wit
 
 Last but not least, **lure** and **identity** play important roles in making a book cover good. A part from inspiring allegorical narratives and telling the category, covers should also strive to attract interest and communicate the identity of the book and content. As Marco Sonzogni says, the cover should emphasize ‘the special qualities and individual imaginative space of the book (2011, p. 16). Without it, you lose the essential essence.
 
-In whatever form they appear one thing is certain. The cover of the book matters. It is a vital part in both selling the book and telling the story.
+In whatever form they appear one thing is certain. The covers of books matters. It is a vital part in both selling the books and telling the stories.
 
 As Alexis Weedon says:
 
@@ -52,13 +52,10 @@ As Alexis Weedon says:
 
 **References:**
 
-Kratz, C. (1994) On Telling/Selling a Book by Its Cover. Cultural Anthropology, 9(2).
+Kratz, C. (1994) 'On Telling/Selling a Book by Its Cover.' Cultural Anthropology, 9(2).
 
-Lant, K. (2017) ‘Anatomy Of A Book Cover’ [online] 99designs. Available at:
-&lt;https://99designs.no/blog/book-design/anatomy-of-a-book-cover/&gt; [Accessed 19 April 2020].
+Lant, K. (2017) ‘Anatomy Of A Book Cover’ [online] 99designs. Available at: &lt;https://99designs.no/blog/book-design/anatomy-of-a-book-cover/&gt; [Accessed 19 April 2020].
 
-Sonzogni, M. (2011) Re-Covered Rose: A case study in book cover design as intersemiotic
-translation, John Benjamins Publishing Company, Amsterdam.
+Sonzogni, M. (2011) _Re-Covered Rose: A case study in book cover design as intersemiotic translation_, John Benjamins Publishing Company, Amsterdam.
 
-Thacker, N. (2013) ‘Why You Should Judge A Book By Its Cover’ [online] The Book Designer.
-Available at: &lt;https://www.thebookdesigner.com/2013/01/nick-thacker/&gt; [Accessed 19 April 2020].
+Thacker, N. (2013) ‘Why You Should Judge A Book By Its Cover’ [online] The Book Designer. Available at: &lt;https://www.thebookdesigner.com/2013/01/nick-thacker/&gt; [Accessed 19 April 2020].

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: What are the Different E-Book Devices and How Do They Differ?
+title: What Are the Different E-Book Devices and How Do They Differ?
 date: 2020-03-22 19:45
 published: true
 header_feature_image: _uploads/ereader.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## What are the Different E-Book Devices and How Do They Differ?
+## What Are the Different E-Book Devices and How Do They Differ?
 
 Ever since its introduction, the e-book has become a viable and increasingly common way for reading books. Many people nowadays have either switched entirely to reading digital books, or reading them alongside print ones. For these readers today there are plentiful of choices out there for both e-reading devices and tablets. All with either very different or minor variations and features.
 
@@ -27,7 +27,7 @@ The first ever e-reader devices were launched in 2007 by Amazon and Sony (Maxim,
 ### Tablets
 
 [![iPad](/_uploads/ipad.jpg)](/_uploads/ipad.jpg)
-Photo credit: picjumbo.com from Pexels
+Photo credit: Picjumbo.com from Pexels
 
 Alongside e-readers, there are also tablets. As a multimedia device, tablets offer the same functions as laptops (Lirtuel, n.d.) You can check your emails, listen to music, and yes, also read books. On these devices you read e-books through the different devices’ apps, such as Apple Books, Kindle, and Nook (Falcone, 2012).
 
@@ -50,12 +50,12 @@ In considering which device to choose from, you must know what it is that you ar
 
 **References**:
 
-Falcone, J. (2012). ‘Kindle Vs. Nook Vs. iPad: Which E-Book Reader Should You Buy?’ [online] CNET. Available at: <https://www.cnet.com/news/kindle-vs-nook-vs-ipad-which-e-book-reader-should-you-buy/> [Accessed 22 March 2020].
+Falcone, J. (2012) ‘Kindle Vs. Nook Vs. iPad: Which E-Book Reader Should You Buy?’ [online] CNET. Available at: <https://www.cnet.com/news/kindle-vs-nook-vs-ipad-which-e-book-reader-should-you-buy/> [Accessed 22 March 2020].
 
-Kozlowski, M. (2015). ‘The State Of The E-Reader Industry In 2015’ [online] Good e-Reader. Available at: <https://goodereader.com/blog/electronic-readers/the-state-of-e-reader-industry-in-2015> [Accessed 22 March 2020].
+Kozlowski, M. (2015) ‘The State Of The E-Reader Industry In 2015’ [online] Good e-Reader. Available at: <https://goodereader.com/blog/electronic-readers/the-state-of-e-reader-industry-in-2015> [Accessed 22 March 2020].
 
-Lirtuel.be. (n.d.). ‘Introduction To Ebooks And E-Reading Devices - Lirtuel’ [online] Available at: <http://www.lirtuel.be/help/introduction?l=en> [Accessed 22 March 2020].
+Lirtuel.be. (n.d.) ‘Introduction To Ebooks And E-Reading Devices - Lirtuel’ [online] Available at: <http://www.lirtuel.be/help/introduction?l=en> [Accessed 22 March 2020].
 
-Maxim, A. and Maxim, A. (2012). The Role of e-books in Reshaping the Publishing Industry. Procedia - Social and Behavioral Sciences, 62, p. 1046-1050.
+Maxim, A. and Maxim, A. (2012) 'The Role of e-books in Reshaping the Publishing Industry.' Procedia - Social and Behavioral Sciences, 62, p. 1046-1050.
 
-Saltzman, M. (2020). ‘Pros And Cons Of Tablets Vs. E-Book Readers’ [online] AARP. Available at: <https://www.aarp.org/home-family/personal-technology/info-2020/tablet-vs-e-reader.html> [Accessed 22 March 2020].
+Saltzman, M. (2020) ‘Pros And Cons Of Tablets Vs. E-Book Readers’ [online] AARP. Available at: <https://www.aarp.org/home-family/personal-technology/info-2020/tablet-vs-e-reader.html> [Accessed 22 March 2020].
