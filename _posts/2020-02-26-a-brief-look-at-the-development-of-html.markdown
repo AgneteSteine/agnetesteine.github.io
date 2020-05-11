@@ -7,9 +7,8 @@ header_feature_image: _uploads/four-letter-tiles-1591061.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## A Brief Look at the Development of HTML
 
-HTML is everywhere. Since its creation it has become a major component of the web. Every website relies on it. Let’s take a brief look at its development.  
+HTML is everywhere. Since its creation it has become a major component of the web. Every website relies on it. Let’s take a brief look at its development.
 
 [![html](/_uploads/four-letter-tiles-1591061.jpg)](/_uploads/four-letter-tiles-1591061.jpg)
 Photo credit: Pixabay from Pexels

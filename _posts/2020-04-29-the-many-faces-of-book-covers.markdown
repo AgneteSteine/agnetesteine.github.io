@@ -7,7 +7,6 @@ header_feature_image: _uploads/annie-spratt-XKVOEJSnVEY-unsplash.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## The Many Faces of Book Covers
 
 The cover is the face of the book. It gives insight into what you can expect from the content. Like people, book covers also have many different faces. When a book gets translated into other languages, the cover often goes through a similar process. Based on where in the world it gets published, the translated book cover can look very different from the original one. Why is this often the case?
 
