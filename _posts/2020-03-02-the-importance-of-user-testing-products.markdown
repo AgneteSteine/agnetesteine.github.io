@@ -7,7 +7,6 @@ header_feature_image: _uploads/david-travis-WC6MJ0kRzGw-unsplash.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## The Importance of User-testing Products
 
 When developing products and services, many companies conduct user research. It is considered to be one of the most important aspects of making a business successful. But what exactly is it?
 
@@ -34,11 +33,11 @@ The benefits of user-testing are the same for both physical and digital products
 
 1. It helps a company save time (Praxent, 2019). If a problem is discovered early in the developing process, there is still time to fix it. Equally, the user reactions can even help in understanding whether or not the product is feasible to complete.
 2. By saving time on product development a company also saves money (ibid). For instance, in the case of identifying what product features to either keep or get rid of.
-3. It helps in understanding product desirability (ibid). If users find value in the product, this can be an indicator of the success and appeal that the product might face in the marketplace.  
+3. It helps in understanding product desirability (ibid). If users find value in the product, this can be an indicator of the success and appeal that the product might face in the marketplace.
 
 As a result of the benefits of user-testing, product developers are able have in-depth research and answer important questions that surrounds the product, like: what will the product do; how should it look; how long will it take to make it; and how much will it cost us? (Praxent, 2019).
 
-Conclusively, user-testing is a valuable method that can impact the design of the product or service; the product development process of a business; and the product or service’s success.   
+Conclusively, user-testing is a valuable method that can impact the design of the product or service; the product development process of a business; and the product or service’s success.
 
 
 **References:**

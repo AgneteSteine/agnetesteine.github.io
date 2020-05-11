@@ -7,7 +7,6 @@ header_feature_image: _uploads/Utennavn.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## What Makes a Good Book Cover?
 
 There is an old saying that goes: “Don’t judge a book by its cover”. It is a meaningful message to bring into your everyday life; of not basing your judgements on appearances only. But in the case of books? It could not be more out of place.
 

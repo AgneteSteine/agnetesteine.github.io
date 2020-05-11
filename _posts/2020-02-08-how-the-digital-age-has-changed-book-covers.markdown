@@ -7,7 +7,6 @@ header_feature_image: _uploads/veroniki-thetis-chelioti-_LzFAUyqVtg-unsplash.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## How the Digital Age Has Changed Book Covers
 
 Books, described by David Pearson, are artefacts and time capsules preserving a certain kind of human knowledge (Ojeda, Lommen, 2016: 182). And for a long time, the _cover_ of the book has functioned as a gateway into this knowledge. A vital marketing tool, and a part of communicating the book’s identity. But, like many traditional media, the book and its cover has been immensely impacted with the rise of the digital age. The turn to digital has not only introduced a new platform, but also changed the way book covers are produced, how they look, and how they function.
 

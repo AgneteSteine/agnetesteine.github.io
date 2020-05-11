@@ -7,7 +7,6 @@ header_feature_image: _uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg
 caption:
 tags:   # use [tag1,tag2]
 ---
-## Metadata - the Key for Discovering Books
 
 Metadata is nowadays one of the most important elements for discovering books. But what is it? And what does it mean for publishers?
 
@@ -16,7 +15,7 @@ Metadata is nowadays one of the most important elements for discovering books. B
 Photo credit: Franki Chamaki on Unsplash
 
 
-The word meta means ‘about’, making the literal definition of metadata as “data _about_ data” (Lubas, Jackson and Schneider, 2013). And essentially that’s what it is. Metadata provides context to digital resources (data).  
+The word meta means ‘about’, making the literal definition of metadata as “data _about_ data” (Lubas, Jackson and Schneider, 2013). And essentially that’s what it is. Metadata provides context to digital resources (data).
 
 To paint a picture. Let's say you saw a book in a bookshop and wanted to know more about it. When you get home you go online, click on the search engine to type in its title – only to realize that you forgot what it was called. The only thing you can remember is what the cover looked like or what kind of genre it was. This is where metadata comes into the picture.
 

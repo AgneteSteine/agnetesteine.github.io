@@ -5,8 +5,6 @@ date: 2020-01-31
 published: true
 header_feature_image: _uploads/andrew-neel-cckf4TsHAuw-unsplash.jpg
 ---
-## Blogging - the Speakers' Corner of the 21st Century
-
 Blogging, a tale **almost** as old as the internet itself.
 In the beginning it was part of challenging the traditional gatekeeping of literature, by giving people a channel to express themselves freely. A way to make the personal _public_. Now, almost everyone on the internet read blogs, or something that is at least closely related to it. And it has in a few years managed to become a fundamental part of the online world.
 

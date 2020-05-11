@@ -7,7 +7,6 @@ header_feature_image: _uploads/alexander-andrews-zw07kVDaHPw-unsplash.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## Typeface Variation – Function and Aesthetics
 
 When reading a document, readers perceive not only the overall text but also the features within it, such as the typography. Used properly, typography can have an immense impact on the success of a design. For this reason, it is at the centre of design practice.
 
@@ -46,7 +45,7 @@ Script is a “hand-writing” style typeface. The script fonts are immediately 
 The decorative fonts are generally more unique and appealing than the other typeface fonts. Known for their emphasize on originality, the decorative fonts allow more flexibility to designers as they are often tailored to fit a certain industry or need. They are rarely used for longer pieces of writing, and work best for use in logos. For this reason, decorative fonts are often used by companies that wish to communicate their specific brand (tailorbrands.com, n.d.)
 
 
-Ultimately, through selecting typefaces a designer can convey different messages, emotions or ideas. It is one of the most fundamental factors in communicating the meaning of a design (Marshall, Meachem, 2012). And if there is a mismatch between your typeface and message, the consequence can result in a visual disconnect for the readers, causing your design to have less impact.  
+Ultimately, through selecting typefaces a designer can convey different messages, emotions or ideas. It is one of the most fundamental factors in communicating the meaning of a design (Marshall, Meachem, 2012). And if there is a mismatch between your typeface and message, the consequence can result in a visual disconnect for the readers, causing your design to have less impact.
 
 
 **References:**

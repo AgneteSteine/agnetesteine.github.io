@@ -7,7 +7,6 @@ header_feature_image: _uploads/ereader.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-## What Are the Different E-Book Devices and How Do They Differ?
 
 Ever since its introduction, the e-book has become a viable and increasingly common way for reading books. Many people nowadays have either switched entirely to reading digital books, or reading them alongside print ones. For these readers today there are plentiful of choices out there for both e-reading devices and tablets. All with either very different or minor variations and features.
 
@@ -45,7 +44,7 @@ They also differ in **screen types** and **display**. Here, e-readers are way be
 
 In terms of **functions**, you have more flexibility with tablets than with e-readers. This is all thanks to apps. By storing the e-books on tablet apps; you get ‘cross-platform support’ (Falcone, 2012). This is useful if you want to access your books on any other device that you might have – tablet, PC or your phone. In addition, with tablets you can do more than just read. As a multimedia device, you can browse the web, play games, watch Netflix, and so on. E-reading devices have a singular purpose, and that is for reading books.
 
-In considering which device to choose from, you must know what it is that you are looking for and which factors you redeem most important.  
+In considering which device to choose from, you must know what it is that you are looking for and which factors you redeem most important.
 
 
 **References**:
